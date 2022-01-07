@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>academic on Samuel&#39;s Masterplan 2022</title>
+    <link>https://samuel-chlam.github.io/masterplan-2022/categories/academic/</link>
+    <description>Recent content in academic on Samuel&#39;s Masterplan 2022</description>
+    <image>
+      <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Jan 2022 03:03:31 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/academic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Study Plan</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/academic/</link>
+      <pubDate>Sat, 08 Jan 2022 03:03:31 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/academic/</guid>
+      <description>My committment  3 days of FYP work each week 2 days per 2 week for normal academic work: Advanced Analysis, Optimisation  Progress  Week 2:  Dynamics of Games Coursework (4 days) FYP: Brown and Low convergence theorem: definition of Le Cam distance, scribing the proof (1 day) Vision Night Second Round   Week 3:  Optimisation: Gradient Descent FYP: Density estimation - numerical experiments   Week 4:  Advanced Analysis: Weak Convergence, Distribution Theory FYP: Review of Poisson process from M3S4 and Poisson thinning   Week 5:  Optimisation: FYP: Block Stein Estimation (Ch.</description>
+    </item>
+    
+  </channel>
+</rss>

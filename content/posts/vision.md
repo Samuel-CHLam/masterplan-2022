@@ -1,6 +1,5 @@
 ---
 author: "Samuel Lam"
-title: "Lifestyle"
 title: "Vision"
 date: 2022-01-07T11:05:56+08:00
 draft: false
