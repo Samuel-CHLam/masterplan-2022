@@ -78,11 +78,6 @@ params:
           - The main goal of the master plan is to **develop a healthier lifestyle, have breakthroughs in mathematics 
           and contribute to the sustainable development of the communities I am engaging in, including the mathematics and Christian communities.**
 
-          - Checkout the following five categories: [lifestyle](/masterplan-2022/lifestyle), [academic](/masterplan-2022/academic), [academic-outreach](/masterplan-2022/academic-outreach), 
-          [christianity](/masterplan-2022/christianity) and [personal branding](/masterplan-2022/branding).
-
-          - You can also sort the posts by: [the five categories](/masterplan-2022/categories) or [tags](/masterplan-2022/tags)
-
     socialIcons:
         - name: website
           url: "https://samuel-chlam.github.io/newsite/"
@@ -125,35 +120,19 @@ menu:
         - identifier: lifestyle
           name: lifestyle
           url: /lifestyle/
-          weight: 1
-        - identifier: academic
-          name: academic
-          url: /academic/
-          weight: 2
-        - identifier: academic-outreach
-          name: outreach
-          url: /academic-outreach/
-          weight: 3
-        - identifier: christianity
-          name: christianity
-          url: /christianity/
-          weight: 4
-        - identifier: branding
-          name: personal branding
-          url: /branding/
-          weight: 5 
-        # - identifier: archives
-        #   name: archives
-        #   url: /archives/
-        #   weight: 10
+          weight: 5
+        - identifier: archives
+          name: archives
+          url: /archives/
+          weight: 10
         - identifier: categories
           name: categories
           url: /categories/
           weight: 15
-        # - identifier: tags
-        #   name: tags
-        #   url: /tags/
-        #   weight: 20
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
         # - identifier: example
         #   name: example.org
         #   url: https://example.org

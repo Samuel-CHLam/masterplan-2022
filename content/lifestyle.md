@@ -9,6 +9,7 @@ ShowToc: true
 TocOpen: true
 ---
 
+
 # Healthier Lifestyle
 ## Regular Exercise
 ### Objectives:
