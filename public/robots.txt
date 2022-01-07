@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://samuel-chlam.github.io/masterplan-2022/sitemap.xml
