@@ -11,13 +11,17 @@ draft: true
 
 # Week 2: *Dynamics of Games catch up*
 ## Academic:
-- Dynamics of Games Coursework
-- Optimisation: Gradient Descent
+- Dynamics of Games Coursework:
+    - Lyapunov Exponents
+    - Sato Replicator Interpretation
+    - Theory of existence of periodic orbit 
+- Optimisation: Slater's condition, KKT condition. (Theory)
 
 # Week 3: *FYP catch up*
 ## Academic:
 - Brown and Low convergence theorem: definition of Le Cam distance, scribing the proof (1 day)
 - FYP: Density estimation - numerical experiments
+- Optimisation: Gradient Descent
 
 # Week 4: 
 ## Academic:
