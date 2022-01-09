@@ -55,13 +55,14 @@ Justin (President), Samuel (Vice-President), Vera (Vice-President *de-facto*, wo
 
 ### Serving in CYF
 - I should gradually retire from my role as a CYF musician to provide more training opportunities for others.
-- ACTION: ask Vincent/Michael how to be a good mentor of musicians/potential committee members
-- ACTION: ask musicians how they can be more involved in music (e.g. how should training be done?)
+- regular review Vincent/Michael how to be a good mentor of musicians/potential committee members
+- ~~ACTION: ask musicians how they can be more involved in music (e.g. how should training be done?)~~ encourage musicians to gain experience by more engagement.
 - share about committee visions and my journey as a vice-president
+- **Sunday devotion :)**
 - be confident that Justin, Vera and Chung will provide more opportunities for members to serve as musicians/gamemasters; liaise with them;
 - be attentive to others sharing their experience;
 - encourage more involvement in larger gatherings (e.g. CNY, P&P, BMT);
-- consult other CU members for advice.d
+- consult other CU members for advice.
 
 # Imperial College Christian Union ICCU
 I am becoming less active to ICCU, but would still regularly involve by prayers:

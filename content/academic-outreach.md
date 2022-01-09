@@ -21,7 +21,6 @@ Promotion of mathematics is divided into three main programmes: Integrated study
 Bear in mind this is not the priority for personal development.
 
 ### Intermediate development: 
-- Urgent: need to finish creating migrating Year 2 spring term materials from resource page  
 - By week 4: 
     - **Schedule a meeting between Mathsoc president (Amir) and Cofounder of Wiki initiatives (Thomas).**
     - recruit people to migrate of first- and second-year summaries, 
