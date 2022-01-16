@@ -13,16 +13,23 @@ draft: true
 
 ## Week 3 (16-22/1): *FYP catch up*
 ### Academic:
+- Dynamics of Games Coursework
+    - (16-17/1) Documentation of relevant codes, presentation.
 - FYP: 
-    - Brown and Low convergence theorem: definition of Le Cam distance, scribing the proof (1 day)
-    - Block Stein Estimation
-- Optimisation: Gradient Descent
-- Advanced Analysis: Weak Convergence, Distribution Theory
+    - (18/1) Brown and Low convergence theorem: definition of Le Cam distance, scribing the proof (1 day)
+    - (20-21/1) Block Stein Estimation
+- Optimisation: 
+    - (17/1) Gradient Descent
+- Advanced Analysis: 
+    - (18/1) Weak Convergence: study and scribe.
+    - (19/1) Distribution theory: study and scribe.
 
 ### Outreach
 - Election of class representatives: optimisation and advanced PDE
-- Tidy up MathSoc website
-- MathWiki review (19/1)
+- MathSoc and MathWiki
+    - (17/1) MathSoc website update.
+    - (18/1) MathSoc main meeting
+    - (19/1) MathWiki review
 
 ## Week 4 (23-29/1)
 ### Academic
