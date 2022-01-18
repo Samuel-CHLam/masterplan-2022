@@ -68,6 +68,10 @@ Bear in mind this is not the priority for personal development.
 - Discord
 - Handover
 
+# Optimisation
+- Translation of lecture materials to MathWiki: in summary format.
+- Collaborate with TA to produce Python code demonstrations
+
 # General Outreach
 - When details are confirmed, ask if Javier would like to join me in sharing MIT experiences.
 - Preparation for UG Colloqium in February (week 6) - e.g. 

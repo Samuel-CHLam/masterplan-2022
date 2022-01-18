@@ -38,10 +38,11 @@ draft: true
 - Christian Union: Hub
 
 ### 21/1
-- FYP: Block Stein Estimation
+- FYP: Catch-up email, Block Stein Estimation
 
 ### 22/1
-- 
+- FYP: Block Stein Estimation
+- CYF gatherings.
 
 ## Week 4 (23-29/1)
 ### Academic
