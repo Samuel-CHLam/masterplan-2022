@@ -78,10 +78,14 @@ params:
           - The main goal of the master plan is to **develop a healthier lifestyle, have breakthroughs in mathematics 
           and contribute to the sustainable development of the communities I am engaging in, including the mathematics and Christian communities.**
 
-          - Checkout the following five categories: [lifestyle](/masterplan-2022/lifestyle), [academic](/masterplan-2022/academic), [academic-outreach](/masterplan-2022/academic-outreach), 
-          [christianity](/masterplan-2022/christianity) and [personal branding](/masterplan-2022/branding).
+          - Checkout the following five categories: [*lifestyle*](/masterplan-2022/lifestyle), [*academic*](/masterplan-2022/academic), [*academic-outreach*](/masterplan-2022/academic-outreach), 
+          [*christianity*](/masterplan-2022/christianity) and [*personal branding*](/masterplan-2022/branding).
 
-          - You can also sort the posts by: [the five categories](/masterplan-2022/categories) or [tags](/masterplan-2022/tags)
+          - You can also sort the posts by [*categories*](/masterplan-2022/categories) and [*tags*](/masterplan-2022/tags)
+
+          - **Weekly Planner:** [*January*](/masterplan-2022/posts/jan21-weekly-plan), [*February*](/masterplan-2022/posts/feb21-weekly-plan), [*March*](/masterplan-2022/posts/mar21-weekly-plan)
+
+          - **Study Group:** [*Measure and Integration*](/masterplan-2022/posts/measure-and-integration), [*Sunday Morning Devotion*](/masterplan-2022/posts/sunday-devotion)
 
     socialIcons:
         - name: website
@@ -105,7 +109,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
+        URL: "https://github.com/Samuel-CHLam/masterplan-2022/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
