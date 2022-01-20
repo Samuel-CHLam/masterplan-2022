@@ -9,7 +9,31 @@
       <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 19 Jan 2022 10:10:07 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 09:23:23 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MathWiki_Jan 20 Meeting Presentation</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mathwiki_jan-20-meeting-presentation/</link>
+      <pubDate>Thu, 20 Jan 2022 09:23:23 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mathwiki_jan-20-meeting-presentation/</guid>
+      <description>The following is the agenda for the MathWiki catchup on 20/1/2022 (Thursday) 5pm on Microsoft Teams.
+Participants:
+ Amir (MathSoc President) Samuel (MathSoc Webmaster) Thomas (ImperialWiki Cofounder) Luc (ImperialWiki Student Partner) David (ImperialWiki Student Partner)  Agenda
+ Updates on MathWiki website Proposed development Preparation of Student-Staff Committee (SSC) and other discussions with faculty members Google Analytics setup  Updates on MathWiki website Users  See Google Analytics (restricted access) Promotional emails were sent on 29th December (launch), 10th January (Week 1 email), 18th January (Week 2 email) Year distribution (based on email address)  Year 1: 55 (1/4 of cohort) Year 2: 73 (1/3 of cohort) Year 3: 47 (1/4 of cohort) Year 4: 38   Only 11 responses for the survey.</description>
+    </item>
+    
+    <item>
+      <title>M&amp;I Week 3 - Introduction</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan-20-introduction/</link>
+      <pubDate>Thu, 20 Jan 2022 09:07:47 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan-20-introduction/</guid>
+      <description>Follow up of lectures  Formalisation of Riemann (Darboux) Integral: the upper and lower Darboux sum is defined as  $$U(f) = \inf_\mathcal{P} U(f,\mathcal{P}), \quad L(f) = \sup_\mathcal{P} L(f,\mathcal{P})$$ where
+$$U(f,\mathcal{P} = (x_i)_{i=0}^n) = \sum _{i=0}^{n-1} \left( \sup _{x \in [x_i, x _{i+1})} f(x) \right) (x _{i+1} - x_i)$$
+$$L(f,\mathcal{P} = (x_i)_{i=0}^n) = \sum _{i=0}^{n-1} \left( \inf _{x \in [x_i, x _{i+1})} f(x) \right) (x _{i+1} - x_i)$$
+ Incompleteness of $L^p$ space induced by Riemann Integral, e.</description>
+    </item>
+    
     <item>
       <title>Measure and Integration Study Group</title>
       <link>https://samuel-chlam.github.io/masterplan-2022/posts/measure-and-integration/</link>
@@ -18,7 +42,7 @@
       <guid>https://samuel-chlam.github.io/masterplan-2022/posts/measure-and-integration/</guid>
       <description>Objective This is a trial study group as a follow up of the lectures of the course MATH50006 Lebesgue Measure and Integration (Imperial login required.)
 Logistics Venue: Math Learning Centre (MLC, Huxley 414), Huxley Building, Imperial Time: 9.30am - 11.00am every Wednesday. Content: discussion of materials from the Tuesday lecture. Materials: See the relevant MathWiki page. (Imperial login required.)
-Timetable 19/1 - Introduction Follow up of lectures  Formalisation of Riemann (Darboux) Integral: the upper and lower Darboux sum is defined as  $$U(f) = \inf_\mathcal{P} U(f,\mathcal{P}), \quad L(f) = \sup_\mathcal{P} L(f,\mathcal{P})$$ where</description>
+Timetable  Week 3 (19/1) - Introduction, Function Spaces Week 4 (26/1) - Axioms of measure Week 5 (2/2) - Construction of measure Week 6 (9/2) Week 7 (16/2) Week 8 (23/2) Week 9 (2/3) Week 10 (9/3) Week 11 (16/3) Week 12 (23/3)  </description>
     </item>
     
     <item>
@@ -55,7 +79,7 @@ Timetable 19/1 - Introduction Follow up of lectures  Formalisation of Riemann (D
       <pubDate>Mon, 10 Jan 2022 01:01:12 +0800</pubDate>
       
       <guid>https://samuel-chlam.github.io/masterplan-2022/posts/jan21-weekly-plan/</guid>
-      <description>Upcoming Week 3 (16-22/1): FYP catch up 16/1 (Sunday)  Optimisation: Lectures Dynamics of Games Coursework: Documentation of relevant codes  17/1 (Monday)  Dynamics of Games Coursework: Documentation of relevant codes  18/1 (Tuesday)  Dynamics of Games Coursework: Presentation and webpage setup. Optimisation: Arrangement of contribution and class representatives Mathsoc: Spring Launch meeting Miscellaneous Matter: National Insurance Number, Provisional Driving License  19/1 (Wednesday)  M&amp;amp;I Study Group: Kick-off session, preparation for website FYP: Planning, Density Estimation Simulation MathWiki: Review and planning Advanced Analysis: Distribuiton Theory Miscellaneous Matter: Draft email to Dr.</description>
+      <description>Upcoming Week 3 (16-22/1): FYP catch up 16/1 (Sunday)  Optimisation: Lectures Dynamics of Games Coursework: Documentation of relevant codes  17/1 (Monday)  Dynamics of Games Coursework: Documentation of relevant codes  18/1 (Tuesday)  Dynamics of Games Coursework: Presentation and webpage setup. Optimisation: Arrangement of contribution and class representatives Mathsoc: Spring Launch meeting Miscellaneous Matter: National Insurance Number, Provisional Driving License  19/1 (Wednesday)  M&amp;amp;I Study Group: Kick-off session, preparation for website MathWiki: Review and planning  20/1 (Thursday)  Advanced Analysis: Lecture Dynamics of Games: Exam FYP: Planning, Brown and Low convergence theorem: definition of Le Cam distance, scribing the proof (1 day) Christian Union: Hub Advanced Analysis: Distribuiton Theory Miscellaneous Matter: Draft email to Dr.</description>
     </item>
     
     <item>
@@ -96,7 +120,7 @@ Timetable 16/1 (Samuel) - Chapter 1  What is the word of life (v2)?</description
       <guid>https://samuel-chlam.github.io/masterplan-2022/academic-outreach/</guid>
       <description>Promotion of mathematics is divided into three main programmes: Integrated study group and MathWiki, MathSoc engagement and general outreach
 Integrated study group and MathWiki Forming study group  ACTION: Elect as class representative of two courses I am taking, inviting people to contribute in MathWiki. ACTION: Deciding regular time of going over problem sheets / coursework  MathWiki Bear in mind this is not the priority for personal development.
-Intermediate development:  By week 4:  Schedule a meeting between Mathsoc president (Amir) and Cofounder of Wiki initiatives (Thomas).</description>
+Intermediate development:  By week 4:  20/1 Meeting between Amir and Thomas.</description>
     </item>
     
     <item>

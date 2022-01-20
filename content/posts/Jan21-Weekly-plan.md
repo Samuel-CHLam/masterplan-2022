@@ -27,16 +27,15 @@ draft: true
 
 ### 19/1 (Wednesday)
 - M&I Study Group: Kick-off session, preparation for website
-- FYP: Planning, Density Estimation Simulation
 - MathWiki: Review and planning
-- Advanced Analysis: Distribuiton Theory
-- Miscellaneous Matter: Draft email to Dr. Sheehan Olver and Dr. Ford.
 
 ### 20/1 (Thursday)
 - Advanced Analysis: Lecture
 - Dynamics of Games: Exam
-- FYP: Brown and Low convergence theorem: definition of Le Cam distance, scribing the proof (1 day)
+- FYP: Planning, Brown and Low convergence theorem: definition of Le Cam distance, scribing the proof (1 day)
 - Christian Union: Hub
+- Advanced Analysis: Distribuiton Theory
+- Miscellaneous Matter: Draft email to Dr. Sheehan Olver and Dr. Ford.
 
 ### 21/1 (Friday)
 - FYP: Catch-up email, Block Stein Estimation

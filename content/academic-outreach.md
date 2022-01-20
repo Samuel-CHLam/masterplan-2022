@@ -22,7 +22,7 @@ Bear in mind this is not the priority for personal development.
 
 ### Intermediate development: 
 - By week 4: 
-    - **Schedule a meeting between Mathsoc president (Amir) and Cofounder of Wiki initiatives (Thomas).**
+    - **20/1 Meeting between Amir and Thomas.**
     - recruit people to migrate of first- and second-year summaries, 
     - migrate all PDF notes to the AWS server. 
 - **MathSoc** to ask if we can include official notes available on Blackboard but not on the MathWiki:  
@@ -57,7 +57,7 @@ Bear in mind this is not the priority for personal development.
 - Include sponsorship details
 - Updating “advice for teaching” page 
 - Updating “events” page 
-- Where should I put Salvi on the Governance page?
+- Update on "governance" page (resignation of Salvi).
 - WIM: do they want a webpage under MathSoc, or will they handle it by themselves? If so, how do they notify us with their updates? 
 - UG Colloquium: do they still want a webpage? 
 - PLEASE ASK PEOPLE TO FILL IN THE FEEDBACK SURVEY. 
