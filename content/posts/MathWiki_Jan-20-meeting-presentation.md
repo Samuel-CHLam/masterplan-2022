@@ -5,7 +5,6 @@ categories: ["outreach", "MathWiki"]
 tags: ["discussion"]
 ShowToc: true
 TocOpen: true
-title: "MathWiki_Jan 20 Meeting Presentation"
 date: 2022-01-20T09:23:23+08:00
 draft: false
 ---
