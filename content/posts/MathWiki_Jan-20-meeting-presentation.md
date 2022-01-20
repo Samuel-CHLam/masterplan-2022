@@ -1,6 +1,6 @@
 ---
 author: "Samuel Lam"
-title: "MathWiki Cathcup 20/1"
+title: "MathWiki Catchup 20/1"
 categories: ["outreach", "MathWiki"]
 tags: ["discussion"]
 ShowToc: true
