@@ -59,13 +59,25 @@ Agenda
 - Create recommended module list. See [example from MIT](https://math.mit.edu/academics/undergrad/roadmaps.php).
 - Collect and upload feedback for modules. See examples from [MIT](http://course18.guide/) and [Imperial Department of EEE](https://reesources.netlify.app/) -- *it just so happen that Department of EEE also have their Wiki page but not extending this to other departments.*
 
-## Project 4: Technical Wiki development
-- Integration with LaTeX
-- Liaise with the department.
+## Project 4: Core Wiki Initiative Development
+- Technical: Integration with LaTeX
+- Communication: liaise with other departments and faculties.
 
-# Discussion with faculty members
+# Discussion with external members
 - Student Staff Committee on the 27th of January.
 - Further discussion with leadership panels, e.g. Vice Provost (Education) and ICU Vice President (Education)
+
+## Existing Wikipages (Required Imperial Login)
+- [ChemEng Wiki](https://chemengwiki.com/) (Part of Imperial Wiki Initiatives)
+- [Physics Wiki](https://imperialphyswiki.com/) (Part of Imperial Wiki Initiatives)
+- [rEEsources (EEE)](https://reesources.netlify.app/)
+- Computing
+    - [DoC Secret Revision Folder (Computing)](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder)
+    - [Imperial Computing Year 1 Notes by Jordan Spooner](https://github.com/jordanspooner/ic-first-year-notes)
+    - [ICL Collaborative Student Notes (Also for JMC)](icl-notes.github.io)
+- AeroEng Wiki (under development)
+- BioChem Wiki (under development)
+- Mechanical Engineering?
 
 # Google Analytics
 - How can we label each students according to their cohorts?
