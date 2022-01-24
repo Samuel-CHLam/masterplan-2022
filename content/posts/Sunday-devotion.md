@@ -26,6 +26,10 @@ Content: discussion of prescribed materials and catchup. We will be reading 1 Jo
 - How do we respond to God being the light of the world? Reflect on your daily life.
 
 ## 23/1 (Tim) - Chapter 2:1-6
+- This is an extension of the last paragraph of Chapter 1. Indeed, John often repeated and elaborated his points over and over.
+- We "know Jesus" by continuously meditating on his words and practising his teaching. Note the subtlety here: keeping a commandment is NOT a *prerequisite* of "knowing Jesus" or enjoying God's salvation, but is a clear indication of how much we understand our faith.
+- How do we know more about Jesus? How can we be persistent with keeping his commandments?
+
 ## 30/1 (Joseph) - Chapter 2:7-17
 ## 6/2 (Harman) - Chapter 2:18-27
 ## 13/2 (Yanni) - Chapter 2:28 - Chapter 3:10

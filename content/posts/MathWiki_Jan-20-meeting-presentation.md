@@ -49,6 +49,8 @@ Agenda
 - Conversion of first- and second- year summaries to Markdown format.
 - Collection of past M1R and M2R projects.
 
+*Resolution: Emails will be sent next week to the interested individuals. The notes for year 1/2 will be out before the midterm exam.*
+
 ## Project 2: Trial collaboration with faculties
 - Trial on Optimisation course. 
 - Lecturer will share source files to technical team for conversion to markdown.
@@ -58,13 +60,19 @@ Agenda
 - Create recommended module list. See [example from MIT](https://math.mit.edu/academics/undergrad/roadmaps.php).
 - Collect and upload feedback for modules. See examples from [MIT](http://course18.guide/) and [Imperial Department of EEE](https://reesources.netlify.app/) -- *it just so happen that Department of EEE also have their Wiki page but not extending this to other departments.*
 
+*Resolution: This is to be brought up to the Math SSC.*
+
 ## Project 4: Core Wiki Initiative Development
 - Technical: Integration with LaTeX
 - Communication: liaise with other departments and faculties.
 
+*Resolution: TBC*
+
 # Discussion with external members
 - Student Staff Committee on the 27th of January.
 - Further discussion with leadership panels, e.g. Vice Provost (Education) and ICU Vice President (Education)
+
+*Resolution: Delayed until having specfic progress.*
 
 ## Existing Wikipages (Required Imperial Login)
 - [ChemEng Wiki](https://chemengwiki.com/) (Part of Imperial Wiki Initiatives)
