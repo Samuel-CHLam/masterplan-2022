@@ -11,57 +11,38 @@ draft: true
 
 # Upcoming 
 
-## Week 4 (23-29/1): FYP Catchup Week I
-*FYP General Theme: Kernel Density Estimation*
-
-### 23/1 (Sunday) - *Church day.*
-
-### 24/1 (Monday)
-- Sport: Running
-- Optimisation: Scribing of Chapter 2-3, follow up on development of relevant MathWiki page.
-- FYP: Outline
-- Email and Planning Routine
-- Advanced Analysis: Coursework Q1
-- Rail and Transport Society Catchup Meeting
-
-### 25/1 (Tuesday)
-- Sport: Arm and Chest
-- MIT Q&A Sessions
-- *Proposed: Personal Tutorial*
-- FYP: Translation of ISLR Kernel Density Estimation Code
-- FYP: Literature Review on Le Cam Distance and Scribing
-
-### 26/1 (Wednesday)
-- Sport: Home workout: Core and Abs
-- M&I Study Group
-- FYP: Literature Review on Poisson Thinning
-- FYP: Simulation exercise I
-- Church: Worship practice pre-meeting
-
-### 27/1 (Thursday)
-- Sport: Cycling exercise
-- Advanced Analysis: Lecture and Coursework Q2
-- FYP: Simulation exercise II
-- Christian Union: Hub
-- FYP: Scribing
-
-### 28/1 (Friday)
-- Prayer breakfast
-- FYP: Simulation exercise III, email to register time
-- *Proposed: MathWiki Student Partner Launch*
-- Night: Planning for Saturday
-
-### 29/1 (Saturday) - *CYF and RailSoc Catchup*
-- Morning: Bible Study and Haircut
-- Afternoon: CYF
-- Night: RailSoc Catchup
-
 ## Week 5 (30/1-5/2): 
 
 ### 30/1 (Sunday) - *Church day*
 - Morning: Sunday devotion and worship
 - Afternoon: Worship practice
-- Night: Planning exercise.
+- Night: Interview preparation and mock interview
+
+### 31/1 (Monday)
+- Sport: Running
+- Optimisation: Follow up on development of relevant MathWiki page.
+- Preparation of interview
+
+### 1/2 (Tuesday) - *Interview Day*
+
+### 2/2 (Wednesday) - *MathWiki and Project Day*
+- M&I Study Group
+- MathWiki: Student Partners launch meeting
+- FYP: Catchup with advisors
+
+### 3/2 (Thursday)
+- Advanced Analysis: Lecture
+- Interview: Preparation for StatML interview
+- FYP: Simulation of noisy integral (second attempt)
+- Christian Union: Hub
+
+### 4/2 (Friday) 
+- Prayer breakfast
+- FYP: 
+
+### 5/2 (Saturday) - *CYF and RailSoc Catchup*
+- Morning: Bible Study
+- Afternoon: CYF
 
 # Past Week
 
@@ -105,3 +86,44 @@ draft: true
 - Advanced Analysis: Weak Convergence
 - CYF: Worship and gathering
 - Advanced Analysis: Compact Operator Scribe II
+
+## Week 4 (23-29/1): FYP Catchup Week I
+*FYP General Theme: Kernel Density Estimation*
+
+
+### 23/1 (Sunday) - *Church day.*
+
+### 24/1 (Monday)
+- Sport: Running
+- Optimisation: Scribing of Chapter 2-3, follow up on development of relevant MathWiki page.
+- FYP: Outline
+- Email and Planning Routine
+- Advanced Analysis: Coursework
+- Rail and Transport Society Catchup Meeting
+
+### 25/1 (Tuesday)
+- Sport: Arm and Chest
+- MIT Q&A Sessions
+- *Proposed: Personal Tutorial*
+
+### 26/1 (Wednesday)
+- M&I Study Group
+- FYP: Simulation exercise I
+- Church: Worship practice pre-meeting
+
+### 27/1 (Thursday)
+- Advanced Analysis: Lecture
+- Interview: Selection of miniproject for StatML
+- Christian Union: Hub
+
+### 28/1 (Friday)
+- Prayer breakfast
+- FYP: Simulation of stochastic integral, Nadaraya estimator, email to register time
+- Interview: Scope of revision
+
+### 29/1 (Saturday) - *CYF and RailSoc Catchup*
+- Morning: Bible Study and Haircut
+- Afternoon: CYF
+- Night: RailSoc Catchup
+- Interview: Self Introduction, Revision of main topics
+- FYP: Summaries of Brown and Low Equivalence Theorem
