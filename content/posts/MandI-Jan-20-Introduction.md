@@ -75,6 +75,6 @@ A normed vector space is *complete* (Banach) if all Cauchy sequences of elements
 3. You will learn about uniform convergence of functions. Try to write the definition of uniform convergence of functions using the supremum norm.
 4. Let $V$ be a vector space with seminorm $\lVert . \rVert_V$. Define the equivalence relation $f \sim g$ iff $\lVert f-g \rVert_V = 0$. Now consider the quotient space $V/\sim$ (i.e. set of all equivalent classes). Show that $V/\sim$ is also a vector space (under suitable definitions of addition and scalar multiplication). Now define for all equivalent classes $[f]_\sim \in V/\sim$,
 
-$$\lVert [f]_\sim \rVert_{V/\sim} = \lVert f \rVert_V$$
+$$\lVert [f] _\sim \rVert _ {V/\sim} = \lVert f \rVert _V$$
 
-Show that the function $\lVert .\rVert_{V/\sim}$ is well-defined (i.e. if we choose two functions $f,g$ from $[f]_\sim$ then the value of norm remains unchanged). Now show that $\lVert .\rVert_{V/\sim}$ is a norm of $V/\sim$.
+Show that the function $\lVert .\rVert _{V/\sim}$ is well-defined (i.e. if we choose two functions $f,g$ from $[f] _\sim$ then the value of norm remains unchanged). Now show that $\lVert .\rVert _{V/\sim}$ is a norm of $V/\sim$.
