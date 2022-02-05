@@ -33,16 +33,20 @@ draft: true
 ### 3/2 (Thursday)
 - Advanced Analysis: Lecture
 - Interview: Preparation for StatML interview
-- FYP: Simulation of noisy integral (second attempt)
 - Christian Union: Hub
+- CYF Meeting
+- CU Mark Drama Publicity
+- MathSoc Website Day 1
 
 ### 4/2 (Friday) 
 - Prayer breakfast
-- FYP: 
+- MathSoc Website Day 1
+- Preparation for StatML interview
 
 ### 5/2 (Saturday) - *CYF and RailSoc Catchup*
 - Morning: Bible Study
 - Afternoon: CYF
+- Night: Preparation for StatML interview
 
 # Past Week
 
