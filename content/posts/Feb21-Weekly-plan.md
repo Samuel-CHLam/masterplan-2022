@@ -20,11 +20,13 @@ draft: true
 ### 7/2 (Monday) - *Interview*
 - StatML interview
 - Optimisation lecture
-- FYP: Simulation of stochastic integrals, Nadaraya-Watson Day 2
+- MathWiki Preparation
+- M&I Preparation
 
 ### 8/2 (Tuesday)
-- FYP: Nadaraya-Watson Day 3
+- FYP: Simulation of stochastic integrals, Nadaraya-Watson Day 2
 - Preparation of M&I
+- MIT Preparation
 
 ### 9/2 (Wednesday)
 - Measure and Integration - Measurable sets and completeness, measure-determining set.
