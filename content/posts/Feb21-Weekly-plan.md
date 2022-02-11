@@ -21,54 +21,54 @@ draft: true
 - StatML interview
 - Optimisation lecture
 - MathWiki Preparation
-- M&I Preparation
 
 ### 8/2 (Tuesday)
-- FYP: Simulation of stochastic integrals, Nadaraya-Watson Day 2
-- Preparation of M&I
-- MIT Preparation
+- Summer: enquiries for extending
 
 ### 9/2 (Wednesday)
 - Measure and Integration - Measurable sets and completeness, measure-determining set.
 - FYP: Catchup
-- Advanced Analysis coursework
-- Optimisation week 4/5
-- Buy running shoes
+- Optimisation week 4/5 - day 1
 
 ### 10/2 (Thursday)
-- FYP: Density estimation by block stein estimation - Literature
-- CU Hub and running
+- Optimisation week 4/5 - day 2
+- CU: Hub and Post-hub run
+- CYF meeting
 
 ### 11/2 (Friday)
-- FYP: Density estimation by block stein estimation - Simulation I
+- Optimisation week 4/5 - day 3
+- FYP: Density Estimation / Literature / Planning
+- Sunday devotion planning
+- CYF: BMT Planning
 
 ### 12/2 (Saturday)
-- FYP: Density estimation by block stein estimation - Simulation II
+- Advanced Analysis: week 4/5
+- CYF
 
 ## Week 7 (13-19/2): *Catch-up, CU Events Week*
 ### 13/2 (Sunday)
 - Mother's birthday
 - Bible study
 - Badminton
+- Planning exercises
 
 ### 14/2 (Monday)
+- Optimisation: lecture and coursework
 
 ### 15/2 (Tuesday)
 
 ### 16/2 (Wednesday)
+- Sunrise ride
+- RailSoc tube challenge.
 
 ### 17/2 (Thursday)
+- Advanced analysis: lecture and coursework.
+- CU: Hub and Post-hub run
 
 ### 18/2 (Friday)
 
 ### 19/2 (Saturday)
 
 ## Week 8 (20-26/2)
-### Academic
-- Optimisation: Constrained Optimisation
-- FYP: Review of Generalised Linear Regression: M3S2
 
 ## Week 9 (27/2-5/3)
-### Academic
-- Advanced Analysis:
-- FYP: Relationship between GLR and GSM

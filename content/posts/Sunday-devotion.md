@@ -31,11 +31,18 @@ Content: discussion of prescribed materials and catchup. We will be reading 1 Jo
 - How do we know more about Jesus? How can we be persistent with keeping his commandments?
 
 ## 30/1 (Joseph) - Chapter 2:7-17
-## 6/2 (Harman) - Chapter 2:18-27
-## 13/2 (Yanni) - Chapter 2:28 - Chapter 3:10
-## 20/2 (Samuel) - Chapter 3:11-18 and *mid-term review*
-## 27/2 (Tim) - Chapter 3:19-24
-## 6/3 (Joseph) - Chapter 4:1-6
-## 13/3 (Harman) - Chapter 4:7-21
-## 20/3 (Yanni) - Chapter 5:1-12
-## 27/3 (Samuel) - Chapter 5:13-21 and *term review*
+- What is the *new* command? Is the *new* command actually *new*?
+- Why did John write the letters to other people?
+- How do we respond to the world's temptations?
+
+## 6/2 - Paused
+
+## 13/2 (Harman) - Chapter 2:18-27
+## 20/2 (Yanni) - Chapter 2:28 - Chapter 3:10
+## 27/2 (Samuel) - Chapter 3:11-18 and *mid-term review*
+## 6/3 (Tim) - Chapter 3:19-24
+## 13/3 (Joseph) - Chapter 4:1-6
+## 20/3 (Harman) - Chapter 4:7-21
+## 27/3 - Paused
+## 6/4 (Yanni) - Chapter 5:1-12
+## 13/4 (Samuel) - Chapter 5:13-21 and *term review*

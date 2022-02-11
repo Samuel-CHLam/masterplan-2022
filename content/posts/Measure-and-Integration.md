@@ -20,10 +20,10 @@ Materials: See the relevant [*MathWiki page*](https://imperialmathswiki.com/en/2
 
 # Timetable
 - [Week 3 (19/1) - Introduction, Function Spaces](/masterplan-2022/posts/mandi-jan-20-introduction)
-- Week 4 (26/1) - Axioms of measure
-- Week 5 (2/2) - Construction of measure
-- Week 6 (9/2)
-- Week 7 (16/2)
+- [Week 4 (26/1) - Axioms of measure](/masterplan-2022/posts/mandi-jan26-sigma-algebra/)
+- Week 5 (2/2) - Construction of measure I
+- Week 6 (9/2) - Construction of measure II and Convergence almost everywhere.
+- Week 7 (16/2) - Pause
 - Week 8 (23/2)
 - Week 9 (2/3)
 - Week 10 (9/3)
