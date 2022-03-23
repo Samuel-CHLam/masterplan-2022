@@ -61,10 +61,12 @@ Notes:
 - v27 - "anyone should teach you"
 
 ## 20/2 (Yanni) - Chapter 2:28 - Chapter 3:10
-## 27/2 (Samuel) - Chapter 3:11-18 and *mid-term review*
+## 27/2 (Yanni) - Chapter 3:11-18
 ## 6/3 (Tim) - Chapter 3:19-24
-## 13/3 (Joseph) - Chapter 4:1-6
-## 20/3 (Harman) - Chapter 4:7-21
-## 27/3 - Paused
-## 3/4 (Yanni) - Chapter 5:1-12
-## 10/4 (Samuel) - Chapter 5:13-21 and *term review*
+## 13/3 - Cancelled
+## 20/3 (Harman) - Chapter 4:1-6
+## 27/3 - Cancelled
+## 3/4 - Cancelled
+## 10/4 (Joseph) - Chapter 4:7-21
+## 17/4 (Samuel)- Chapter 5:1-12
+## 24/4 (Samuel) - Chapter 5:13-21 and *term review*
