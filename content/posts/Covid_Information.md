@@ -17,8 +17,7 @@ It is with great regret to inform you that I have been tested positive for COVID
 - I had done a further PCR test on 23/3 (Wednesday), awaiting for result.
 
 Based on the information above, 
-- any contacts before 21/3 (Monday) should be regarded as low risk, and 
-- any contacts on or after 21/3 (Monday) should be regarded as high risk.
+- any contacts before 21/3 (Monday) should be regarded as low risk, and any contacts on or after 21/3 (Monday) should be regarded as high risk.
 
 # Iternary
 Further information will be released here. Any relevant contacts will be contacted separately.
