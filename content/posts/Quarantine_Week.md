@@ -19,7 +19,7 @@ Tasks to do
 
 # MathWiki
 - Finish Optimisation
-- Checklist for modules authorisation 
+- ~~Checklist for modules authorisation~~
 - Interdisciplinary Mathematics
 
 # Preparation for exam
