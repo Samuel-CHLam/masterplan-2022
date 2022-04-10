@@ -9,10 +9,12 @@ draft: true
 Tasks to do
 
 # Academic
-- Math Biology Catchup
+- Math Biology:
+    - Stochastic Processes
+    - State-space model
 
 # Personal Branding
-- Personal logo
+~~- Personal logo~~
 - Redo CSS for personal website
 - Rewrite my academic story
 - Integrate with Markdown
@@ -20,6 +22,9 @@ Tasks to do
 # MathWiki
 - Finish Optimisation
 - ~~Checklist for modules authorisation~~
+- ~~Module overview page~~
+- ~~Undergraduate Routemap (Leave blanks)~~
+- ~~Migrate users~~
 - Interdisciplinary Mathematics
 
 # Preparation for exam
@@ -28,5 +33,5 @@ Tasks to do
 
 # CYF
 - Report for BMT camp
-- Exam timetable
+- ~~Exam timetable~~
 

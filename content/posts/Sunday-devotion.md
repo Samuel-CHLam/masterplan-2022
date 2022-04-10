@@ -66,7 +66,14 @@ Notes:
 ## 13/3 - Cancelled
 ## 20/3 (Harman) - Chapter 4:1-6
 ## 27/3 - Cancelled
-## 3/4 - Cancelled
-## 10/4 (Joseph) - Chapter 4:7-21
-## 17/4 (Samuel)- Chapter 5:1-12
-## 24/4 (Samuel) - Chapter 5:13-21 and *term review*
+## 3/4 (Joseph) - Chapter 4:7-21
+## 10/4 (Samuel)- Chapter 5:1-12
+- What is "believe" (v1)?
+- How do we know we love God?
+- Notice the subtle difference between "carrying out" and "keeping" His commands. 
+- What is the authority behind our "victory" over the world (v4)? Are you convinced by that? Share something you learn over "the end" yesterday.
+- What is the testimony? (v10)
+- How does God testify? In particular, what is "water" and "blood"? Are you convinced by the testimony?
+- A warning in verse 10.
+## 17/4 (Samuel) - Chapter 5:13-21
+## 26/4 - *term review*
