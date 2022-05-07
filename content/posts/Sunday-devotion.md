@@ -75,5 +75,5 @@ Notes:
 - What is the testimony? (v10)
 - How does God testify? In particular, what is "water" and "blood"? Are you convinced by the testimony?
 - A warning in verse 10.
-## 17/4 (Samuel) - Chapter 5:13-21
+## 17/4 (Yanni) - Chapter 5:13-21
 ## 26/4 - *term review*
