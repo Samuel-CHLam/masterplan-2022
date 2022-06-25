@@ -13,8 +13,14 @@ As you may all know, there is not a clear job description as a vice chair of CYF
 
 Lessons learnt (to be filled in)
 - Humbleness
-- Trust in God
+    - A realisation during committee interview.
+    - Drawing lines: who am I to judge?
+    - Breakthrough in contents.
 - Trust in committee
+    - Sam's incidents
+    - Expectation of committee.
+- Trust in God
+    - Reflection on my serving role and academic developments.
 
 # Important reminders
 - Vision: I think having a clear direction is way more important. 
