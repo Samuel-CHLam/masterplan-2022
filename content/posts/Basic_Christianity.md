@@ -12,11 +12,14 @@ draft: true
 Some summary and notes from the book *Basic Christianity* by John Stott.
 
 # Chapter 1: The Right Approach
-God has taken initiatives to reveal Himself through creation, salvation and revelation.
+God has taken initiatives to reveal Himself through creation, revelation (啟示) and salvation.
 
 ## God demonstrating Himself
 - God has spoken
-- *God has acted.* Review the whole story of salvation from the rescue from Egypt to final salvation. (See perhaps Acts.)
+    - Natural revelation: demonstrated to everyone through his creation.
+    - Special revelation: demonstrated by a group of the "special messengers" to the "special people". We are fortunate to acknowledge this revelation through evangelism.
+    > My question: why is this necessary? I don't think there is a clear answer to that.
+- *God has acted* because observation is what we need (due to our sinful and skeptical nature.) Review the whole story of salvation from the rescue from Egypt to final salvation. (See perhaps Acts.)
 
 ## How should we respond?
 > Seek and you shall find. (Matthew)
