@@ -1,5 +1,10 @@
 ---
+author: "Samuel Lam"
 title: "CYF Operational Guideline"
+categories: ["christian","CYF"]
+tags: ["discussion"]
+ShowToc: true
+TocOpen: true
 date: 2022-07-02T03:36:03+08:00
 draft: true
 ---

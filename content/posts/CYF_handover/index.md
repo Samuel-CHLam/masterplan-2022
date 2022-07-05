@@ -1,5 +1,10 @@
 ---
+author: "Samuel Lam"
 title: "CYF handover"
+categories: ["christian","CYF"]
+tags: ["discussion"]
+ShowToc: true
+TocOpen: true
 date: 2022-06-25T20:15:00+08:00
 draft: true
 ---

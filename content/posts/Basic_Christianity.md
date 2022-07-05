@@ -1,5 +1,10 @@
 ---
+author: "Samuel Lam"
 title: "Basic Christianity"
+categories: ["christian","CYF"]
+tags: ["discussion"]
+ShowToc: true
+TocOpen: true
 date: 2022-07-02T16:53:50+08:00
 draft: true
 ---
