@@ -20,10 +20,29 @@ God has taken initiatives to reveal Himself through creation, salvation and reve
 - Seek *obediently* and be obedient to the teaching, letting God's initiatives change our lives.
 
 # Chapter 2: Christ's claim
-- Self-centered teaching
-- Direct claims
-- Indirect claims
-- Dramatised claims
+## Self-centered teaching
+- Try to understand God through His descriptions about Himself.
+Some snapshots:
+- Way of truth (compare with *"That is the truth, so far as I understand it; follow that."*) 
+> I am the way and the truth and the life. No-one comes to the Father except through me. (John 14)
+- Identity
+> "Who do you say I am?" (Mark 8)
+- Commandment (vs. invitation): e.g. "Come to me...", "Follow me..."
+- Prediction of salvation plan.
+> I, when I am lifted up from the earth, will draw all people to myself.
+- Why can God be *self-centered* and *self-seeking*.
+
+## Different claims
+1. Direct claims: his relationship with the Father, comparison with other important figures like Abraham.
+2. Indirect claims
+    - Forgiving sin.
+    - Give life. (e.g. "living water".)
+    - Teach the truth. 
+    > No-one ever spoke the way this man does.
+    > ...the crowds were amazed at his teaching, because he taught as one who had *authority*, and not as their teachers of the law.
+    - Judge the world (when He returns.)
+3. Dramatised claims through miracles and signs (see John).
+Claims are supported by His character.
 
 # Chapter 3: Character of Christ
 Christ is distinguished from human because He is sinless. We should therefore treat Him not as a powerful human, but rather some form of super-naturals. 
@@ -49,3 +68,39 @@ For the following references, try to
     - *Invention:* unlikely, since other senses were involved.
     - *Hallucination:* people were not that desperate to see Jesus. Also note the variety of settings and atmosphere when Jesus appeared.
 4. Disciples were changed.
+
+# Chapter 5: The fact and nature of sin
+> Sin is not a convenient invention of church ministers to keep them in their job; it is a fact of human experience.
+Sin is universal to human.
+
+## Ten commandments
+Three stages of keeping commandments:
+- Not taking action
+- Not intending to act
+- Acting in accordance to the positive counterparts. (*"But rather..."*)
+
+1. You shall have no other gods before me.
+    - This includes putting others above God, e.g. sport, hobby, selfish ambition.
+    - One should "love the Lord our God with all our heart and with all our soul and with all our mind". No one has ever kept this commandment except Jesus.
+2. You shall not make for yourself an image.
+    - How we worship? Do we perform worshipping acts without actually worshipping Him? We should worship "in the Spirit and in truth".
+3. You shall not misuse the name of the Lord your God.
+    - Mind our languages.
+    - Do we actually trust and obey God?
+4. Remember the Sabbath day by keeping it holy.
+    - What do we do in our Sundays?
+5. Honour your father and your mother.
+6. You shall not murder
+    - This includes being angry with someone without good reason, or to be insulting.
+    - *Rather* promote the health and support the life of others
+7. You should not commit adultery.
+    - Sex outside relationship
+    - Adulterous thoughts
+    - Remember sex is a gift of God.
+8. You shall not steal.
+    - This includes overworking and underpaying staff as an employer, as well as working short hours as an employee.
+    - *Rather* start working.
+9. You shall not give false testimony against your neighbour.
+    - This includes gossiping, lying, deliberate exaggeration or distorting the truth.
+10. You shall not covet (~greedy).
+
