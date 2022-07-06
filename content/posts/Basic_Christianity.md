@@ -112,3 +112,15 @@ Three stages of keeping commandments:
     - This includes gossiping, lying, deliberate exaggeration or distorting the truth.
 10. You shall not covet (~greedy).
 
+# Chapter 6: Consequences of Sin
+- Alienation (疏遠) from God, death.
+    - Structure of the tabernacle
+    - Fear of seeing God's face in the old testament
+    - Our experience of "distant" God in the new testament
+- Bring us to captivity (囚禁)
+    - Sin is an internal sickness that we are in bondage.
+    - We want to live a good life, but we are chained in the prison of our self-centeredness. However much we may boast of being free, the reality is that we are slaves.
+    - A lecture wil not solve our problem; we need a Saviour.
+- Conflict with others
+
+Conclusion: admit our need for a cure.
