@@ -10,6 +10,13 @@ TocOpen: true
 ---
 
 # My committment
-- 3 days of FYP work each week
-- 2 days per 2 week for normal academic work: Advanced Analysis, Optimisation
-- See [here](/masterplan-2022/posts/weekly-plan/) for tentative schedule.
+## July
+- Probability Theory I - limiting theorems
+- Theory of Deep Learning
+
+## August
+- Probability Theory II - Stochastic processes, discrete time martingale, ergodic theory
+- Random Matrix Theory
+
+## September
+- Functional Analysis
