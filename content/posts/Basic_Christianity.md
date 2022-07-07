@@ -18,14 +18,18 @@ God has taken initiatives to reveal Himself through creation, revelation (啟示
 - God has spoken
     - Natural revelation: demonstrated to everyone through his creation.
     - Special revelation: demonstrated by a group of the "special messengers" to the "special people". We are fortunate to acknowledge this revelation through evangelism.
-    > My question: why is this necessary? I don't think there is a clear answer to that.
 - *God has acted* because observation is what we need (due to our sinful and skeptical nature.) Review the whole story of salvation from the rescue from Egypt to final salvation. (See perhaps Acts.)
 
 ## How should we respond?
 > Seek and you shall find. (Matthew)
+- Seek *seriously* and work hard.
 - Seek *humbly* and admits that we need God's wisdom to understand Him completely. Having rational mind is OK but we must admits our limitations.
 - Seek *honestly* and lay aside our prejudice
 - Seek *obediently* and be obedient to the teaching, letting God's initiatives change our lives.
+
+> Questions:
+> 1. Jesus once said "If anyone choose to do God's will, he will find out whether my teaching comes from God or whether I speak on my own." In such case, how can someone who reject God find out who God is?
+> 2. Why did God reveal in stages? (Hint: Think about the relationship between God and human.)
 
 # Chapter 2: Christ's claim
 ## Self-centered teaching
@@ -124,3 +128,23 @@ Three stages of keeping commandments:
 - Conflict with others
 
 Conclusion: admit our need for a cure.
+
+# Chapter 7: Death of Christ
+## Centrality of the Cross (as bridge)
+> the life of a creature is in the blood (Leviticus 17:11)
+> without the shedding of blood there is no forgiveness (Hebrews 9:22)
+This is the plan according to the Old Testament (Zechariah, Daniel, Isaiah)
+
+## Meaning of the Cross
+- Sorry, most of the planning remain a mystery.
+- The author deliberately limit his discussion to 1 Peter, because
+    - he was one of the inner core of three apostles.
+    - Simon Peter had paid much effort to accept the planning for Jesus to sacrifice.
+    - the reference to the Cross is an aside in his letter.
+- Christ suffering is an *example* for us to submit to undeserved suffering.
+- **That is not enough.** Christ suffering is for our *sin*, that's why Jesus struggled to "have the cup".
+    - Someone might be responsible for our sin. (E.g. Number 30 concerning vows, end of Lamentations, Proverbs?)
+    - Sin offering in Leviticus 10
+    - John the Baptist: "Look, the Lamb of God, who takes away the sin of the world."
+    - Reference in Exodus (the *Passover Lamb*)
+- No good behaviour on our part could ever earn our forgiveness.
