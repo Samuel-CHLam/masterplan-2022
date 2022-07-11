@@ -42,7 +42,7 @@ Some snapshots:
 - Commandment (vs. invitation): e.g. "Come to me...", "Follow me..."
 - Prediction of salvation plan.
 > I, when I am lifted up from the earth, will draw all people to myself.
-- Why can God be *self-centered* and *self-seeking*.
+- Why can God be *self-centered* and *self-seeking*?
 
 ## Different claims
 1. Direct claims: his relationship with the Father, comparison with other important figures like Abraham.
@@ -148,3 +148,44 @@ This is the plan according to the Old Testament (Zechariah, Daniel, Isaiah)
     - John the Baptist: "Look, the Lamb of God, who takes away the sin of the world."
     - Reference in Exodus (the *Passover Lamb*)
 - No good behaviour on our part could ever earn our forgiveness.
+
+# Chapter 8: Salvation of Christ
+- *Salvation:* not just forgiveness of previous mistakes, but also put right our relationship with Him, then progressively set us free from our sinful nature.
+- *Spirit of Christ:*
+    - Need the death of Christ
+    > Unless I go away, the Advocate will not come to you, but if I go, I will send Him to you. (John 14)
+    - Essential for our transforming lives: letting spirit come to our heart and change us from the inside.
+- *Church of Christ*
+    - Restore our relationships with one another.
+    - Church = all disciples.
+    - Paul: Church as a body (Ephesians 4), energised by a common life -- the Holy Spirit.
+        - Holy Spirit is the creator of our common love.
+    - Couldn't reject church since we were having same nature as it...
+    > Question: John Stott stated that "those who declare faith in Christ..." and "those who actually exercise faith" are not identical. Are you concerned by that?
+
+# Chapter 9: Counting the cost
+> What shall I do, Lord? (Acts)
+
+> Whoever wants to be my disciple must deny themselves and take up their cross and follow me. (Luke 8:29)
+
+Need to reflect on the cost of following Christ. Unfortunately many people treated the religion as a cushion.
+
+## Following Christ
+1. Renunciation of sin: Repentance = turning away from every thought, word, deed and habit that we know to be wrong. This include making any realistic reparation.
+2. Renunciation of self: surrender to him the rights over our own lives. By losing our own selves we discover our true selves?
+3. Taking up the cross: complete surrender of self...
+
+Application
+- Career pathway
+- Marriage and home
+- Money and time
+
+## Acknowledging Christ
+> Do not be ashamed of the Lord.
+- Baptism
+- Sharing with our communities
+
+## Incentives
+- For our own sake. (Remember John 10:10)
+- For the sake of others. (Light and salt of the world)
+- For Christ sake.
