@@ -6,7 +6,7 @@ tags: ["discussion"]
 ShowToc: true
 TocOpen: true
 date: 2022-07-06T04:53:50+08:00
-draft: true
+draft: false
 ---
 
 Today we will go over Acts 15, verses 1-35. This passage is about the council at Jerusalem debating issue regarding circumcision. A quick plan would be 
@@ -104,6 +104,8 @@ declares the Lord, who will do these things. (Amos 9:11-12)
 
 Amos (especially Ch. 8-9) had a similar flavour to Moses teachings. He pointed out that God was going to punish Israel, and if the offspring returned, then God would gather the Israelites back to their homeland. In making such solemn promise, Amos pointed out the main objective of such promise was to make "all the nations" bearing "God's name". As a result, James commented that one should not impose obstacles to discourage Gentiles from turning to God. (v19)
 
+> Addendum: we also recognised that the Pharisees were actually *believing in Jesus*, so they should have agreed with the core doctrine anyway.
+
 # Handling debates in doctrine - Lesson Learnt
 We have looked at the arguments made in the council, now let us look at how the people handle debates with care.
 
@@ -128,7 +130,7 @@ Some prominent examples of those councils include:
 - [Councils of Carthage](https://en.wikipedia.org/wiki/Councils_of_Carthage), which determined the *canon* (list of books to be included in the Bible). 
 - There are other examples of modern [Synods](https://en.wikipedia.org/wiki/Synod) in Christian community
 
-## Lesson 3: suitable trade-off
+## Lesson 3: progressive debate with respect
 > *Observation: in the concluding comments made by James, what additional commands had he ordered?*
 
 James had ordered the Gentiles to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals and from blood.
@@ -139,11 +141,11 @@ James had ordered the Gentiles to abstain from food polluted by idols, from sexu
 > Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. (Matthew 5:17)
 2. To encourage Jews to be completely separated from any temptations.
 
-It is hard to determine the reason why James  raised this issue in the council. In fact, this rule contradicts with the vision as seen by Peter in Acts 10. There, Paul clarified in 1 Corithians 8: 
+It is hard to determine the reason why James raised this issue in the council. In fact, this rule contradicts with the vision as seen by Peter in Acts 10. There, Paul clarified in 1 Corithians 8: 
 
 > But food does not bring us near to God; we are no worse if we do not eat, and no better if we do... if what I eat causes my brother or sister to fall into sin, I will never eat meat again, so that I will not cause them to fall. (1 Corithians 8:8,11)
 
-This argument resolves the contradiction in some sense. Such example illustrates that certain "trade-off" might be allowed, but efforts need to be made to make sure that we do not cross the line of acting against our core Christian belief, i.e. salvation by faith.
+This argument resolves the contradiction in some sense. Such example demonstrates how Paul dealt with theological issue in a progressive manner, perhaps with some compromise allowed. It is emphasised that such decisions are made based on God's will.
 
 > *Reflection: What are your principles to determine if a doctrine is consistent with our core Christian belief? Will you compromise if there are such inconsistency?*
 

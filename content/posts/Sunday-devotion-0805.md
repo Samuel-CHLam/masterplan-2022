@@ -6,7 +6,7 @@ tags: ["announcement"]
 ShowToc: true
 TocOpen: true
 date: 2022-05-07T14:25:48+08:00
-draft: true
+draft: false
 ---
 
 We will be reading Matthew 19:16-30, the story of a rich man. If you have time, you may wish to continue reading the parable of the workers in the vineyard in Matthew 20:16, but this will only be covered briefly.

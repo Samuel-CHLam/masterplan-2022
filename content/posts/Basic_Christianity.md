@@ -189,3 +189,11 @@ Application
 - For our own sake. (Remember John 10:10)
 - For the sake of others. (Light and salt of the world)
 - For Christ sake.
+
+# Chapter 10: Reaching a decision
+No notes
+
+# Chapter 11: Being a Christian
+- Understanding the intimate relationship
+- Assured relationship: not affected by personal feelings. Remember God's spirit lives inside our heart.
+- Growing in God: bible reading, prayer, joining church, evangelise, serving others.

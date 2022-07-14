@@ -9,6 +9,14 @@ date: 2022-07-02T03:36:03+08:00
 draft: true
 ---
 
+# Aims of CYF
+- Provide a fellowship (for Cantonese-speaking high school and university students in the UK).
+- Explore and develop participants' "spiritual gifts" in serving God.
+- Evangelise (towards Cantonese-speaking high school and university students in the UK).
+
+# Recommended timeline
+A term spans from 1st July to 30th June in the subsequent year. Before starting of the term, a handover meeting should be held.
+
 # Programme Planning
 - We have members with various experience in faith, so it is difficult to cater all needs. Rest assured that there are many "more experienced" members that could possibly help the "less experienced" people, but we also have to take care of others as well.
 - Consideration of supporting study groups. Previous years we have 
