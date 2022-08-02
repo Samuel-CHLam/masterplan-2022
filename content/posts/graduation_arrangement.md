@@ -40,9 +40,6 @@ Venue: TBC, to be selected in any of the following:
 - Worship and Ministry Center, Chinese Church in London, 69-71 Brook Green, Hammersmith,
 - Southbank Centre
 
-## Photo arrangements
-The photos taken during the graduation ceremonies, reception and photo day will be available on or before 15th November through google drive for download.
-
 # Photo Groups
 Invitees are invited to join various photo sessions on the commemoration. Here are some general advice:
 - Recommended dress code: formal / smart casual.
@@ -115,4 +112,7 @@ C. Guardians
 ### Night (8pm):
 - Groups 8: members of CCiL
 - Groups 9: invited mathematics faculties, graduates and members during reception.
+
+## Photo arrangements
+The photos taken during the graduation ceremonies, reception and photo day will be available on or before 15th November through google drive for download.
 
