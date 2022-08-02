@@ -12,11 +12,18 @@ Thank you for visiting the personal graduation information page!
 # Overview
 
 ## Ceremony
+The graduation day, also known as commemoration day, is set in October in commemoration of the Royal visits to the college in 1945. The details for the ceremony are as followed.
+
 Date: 19th October, 2022 (Wednesday)
 Time: 17.30 (TBC)
 Venue: Royal Albert Hall
 
+### Tickets for main ceremony
 The designated guest tickets for main ceremony and departmental reception have been reserved for core family members. If there are additional tickets, you may receive invitations for attending in person. You may also watch the live stream of graduation ceremony [here](https://www.imperial.ac.uk/graduation/).
+
+### Virtual Celebration
+Time: 12.30 (TBC)
+There will be a short zoom session for those who cannot join us in-person on the commemoration day. Details will be posted in due course.
 
 ## Reception
 Date: TBC
@@ -37,7 +44,10 @@ Venue: TBC, to be selected in any of the following:
 The photos taken during the graduation ceremonies, reception and photo day will be available on or before 15th November through google drive for download.
 
 # Photo Groups
-Invitees are invited to join in the morning for more opportunities of taking photos.
+Invitees are invited to join various photo sessions on the commemoration. Here are some general advice:
+- Recommended dress code: formal / smart casual.
+- Gifts (including flowers) are appreciated but optional - feel free to just come! Flowers and graduation dolls are provided.
+- You are advised to join us in the morning when possible, since the afternoon is quite busy.
 
 Notes:
 *WikiSoc: Imperial Wiki Initiatives
@@ -52,7 +62,7 @@ C. Guardians
 1. Special invitees
 2. Logos Academy alumni
 3. Imperial-MIT Exchange Candidates 2020/21
-4. WikiSoc*: Founders and 2022/23 Committees 
+4. WikiSoc*: Founders, 2022/23 Committees and trustees
 5. RailSoc**: 2021/22 Committees
 6. Christian Union: 
     A. 4-year graduates
@@ -63,7 +73,7 @@ C. Guardians
     F. Post hub run members 2021/22
     G. General members
 7. CYF: 
-    A. Advisors
+    A. Advisors and past advisors
     B. Committee of 2021/22 and affiliated members
     C. Committee of 2022/23 and affiliated members
     D. Graduates
@@ -86,4 +96,23 @@ C. Guardians
     G. Fluid Dynamics group and affiliated members
 10. Other invitees
 
+## Timetable
+### Morning (9am-12pm):
+- Administration (9am)
+- Group 9A: faculties (9.30am)
+- Groups 9B-G: Invited mathematics graduates and members (10am)
+
+### Virtual Celebration (12.30pm-1pm, HK time 7.30pm-8pm) 
+
+### Early Afternoon (1pm-3pm):
+- Groups 1, 2, 3, 4, 5: Special invitees, LA Alumni, Imperial-MIT Exchange Candidates, distinguished members of societies. (1pm)
+- Groups 7: members of Cantonese Youth Fellowship (2pm)
+
+### Late Afternoon (3pm-5pm):
+- Groups 6: members of Christian Union (3pm)
+- Groups 8: members of CCiL (4pm)
+
+### Night (8pm):
+- Groups 8: members of CCiL
+- Groups 9: invited mathematics faculties, graduates and members during reception.
 
