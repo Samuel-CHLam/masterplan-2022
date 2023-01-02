@@ -20,7 +20,7 @@ The masterplan 2022 is an integration of various ambitious plans, outlined for p
 - Personal Branding
 
 # Pushing
-This is the key phrase of publishing the webpage.
+The old phrase seemed to be this but I am not sure?
 ```
 git submodule add -b master git@github.com:<USERNAME>/<USERNAME>.github.io.git public
 ```
