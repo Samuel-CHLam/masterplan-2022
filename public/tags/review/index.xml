@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>review on Samuel&#39;s Masterplan 2022</title>
+    <link>https://samuel-chlam.github.io/masterplan-2022/tags/review/</link>
+    <description>Recent content in review on Samuel&#39;s Masterplan 2022</description>
+    <image>
+      <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 01 Jan 2023 21:00:00 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A review of 2022</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</link>
+      <pubDate>Sun, 01 Jan 2023 21:00:00 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</guid>
+      <description>Overview This is a review of 2022. I will include more details.
+Introduction thanking everyone for a wonderful and enjoyable 2022, graduation Academic TL,DR:
+Final year at Imperial, first year at Oxford. At Imperial: Research project on equivalence of experiments Coursework on PDE, Optimisation, Asymptotic Analysis, Dynamics of Games, Mathematical Biology. Serve as webmaster Graduate with IMA membership At Oxford Progress Research project on ODE methods for reinforcement learning Side project on activation for neural network Completed coursework on topics in stochastic processes A summary for the programme Main objective is to develop a further understanding on deep neural network, including</description>
+    </item>
+    
+  </channel>
+</rss>

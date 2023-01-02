@@ -16,7 +16,7 @@
       <pubDate>Sat, 29 Jan 2022 17:08:56 +0800</pubDate>
       
       <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan26-sigma-algebra/</guid>
-      <description>Summary  We have done previous exercise on semi-norm. Facts about $\sigma$-algebra  Uncountable intersection of $\sigma$-algebra is also a $\sigma$-algebra. That is why it makes sense to talk about &amp;ldquo;the smallest $\sigma$-algebra&amp;rdquo; containing certain subset of power set. To prove $\sigma(C) \subseteq \mathcal{F}$ you show that $C$ is contained in $\mathcal{F}$.    Exercise  Make sure you have read the proof of Carathedory extension theorem and the notions of null set.</description>
+      <description>Summary We have done previous exercise on semi-norm. Facts about $\sigma$-algebra Uncountable intersection of $\sigma$-algebra is also a $\sigma$-algebra. That is why it makes sense to talk about &amp;ldquo;the smallest $\sigma$-algebra&amp;rdquo; containing certain subset of power set. To prove $\sigma(C) \subseteq \mathcal{F}$ you show that $C$ is contained in $\mathcal{F}$. Exercise Make sure you have read the proof of Carathedory extension theorem and the notions of null set. You can preview the proofs by looking at chapter 3 of my notes.</description>
     </item>
     
     <item>
@@ -25,10 +25,10 @@
       <pubDate>Thu, 20 Jan 2022 09:07:47 +0800</pubDate>
       
       <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan-20-introduction/</guid>
-      <description>Follow up of lectures  Formalisation of Riemann (Darboux) Integral: the upper and lower Darboux sum is defined as  $$U(f) = \inf_\mathcal{P} U(f,\mathcal{P}), \quad L(f) = \sup_\mathcal{P} L(f,\mathcal{P})$$ where
+      <description>Follow up of lectures Formalisation of Riemann (Darboux) Integral: the upper and lower Darboux sum is defined as $$U(f) = \inf_\mathcal{P} U(f,\mathcal{P}), \quad L(f) = \sup_\mathcal{P} L(f,\mathcal{P})$$ where
 $$U(f,\mathcal{P} = (x_i)_{i=0}^n) = \sum _{i=0}^{n-1} \left( \sup _{x \in [x_i, x _{i+1})} f(x) \right) (x _{i+1} - x_i)$$
 $$L(f,\mathcal{P} = (x_i)_{i=0}^n) = \sum _{i=0}^{n-1} \left( \inf _{x \in [x_i, x _{i+1})} f(x) \right) (x _{i+1} - x_i)$$
- Incompleteness of $L^p$ space induced by Riemann Integral, e.</description>
+Incompleteness of $L^p$ space induced by Riemann Integral, e.</description>
     </item>
     
   </channel>
