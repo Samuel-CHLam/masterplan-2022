@@ -1,11 +1,11 @@
 ---
 author: "Samuel Lam"
 title: "Review 2022 - Christianity (Part 1 on CYF)"
-categories: ["christian","CYF"]
-tags: ["discussion"]
+categories: ["2022", "christian", "CYF"]
+tags: ["discussion", "review"]
 ShowToc: true
 TocOpen: true
-date: 2022-06-25T20:15:00+08:00
+date: 2023-01-03T02:30:00+08:00
 draft: true
 ---
 

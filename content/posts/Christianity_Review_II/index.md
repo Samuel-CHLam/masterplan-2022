@@ -1,7 +1,7 @@
 ---
 author: "Samuel Lam"
 title: "Review 2022 - Christianity (Part 2)"
-categories: ["2022"]
+categories: ["2022", "christian"]
 tags: ["review"]
 ShowToc: true
 TocOpen: true

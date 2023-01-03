@@ -1,6 +1,6 @@
 ---
 author: "Samuel Lam"
-title: "A review of 2022"
+title: "Review of 2022 - an overview"
 categories: ["2022"]
 tags: ["review"]
 ShowToc: true
