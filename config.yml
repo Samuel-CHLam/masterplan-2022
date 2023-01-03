@@ -16,8 +16,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: "Samuel's Masterplan 2022"
-    description: "The site documents my masterplan as well as teaching pages."
+    title: "Samuel's Masterplan, Teaching and Blogs"
+    description: "The site documents my masterplan, reviews and teaching pages."
     keywords: [Blog, Portfolio, PaperMod]
     author: "Samuel Lam"
     # author: ["Me", "You"] # multiple authors
@@ -71,10 +71,10 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "It has been 20 years - what's next?"
+        Title: "It has been 20.5 years - what's next?"
         Content: > 
-          The master plan 2022 is a celebration of my personal 20 birthdays. Reaching this milestone means graduating and becoming an experienced (mathematical) statistician. 
-          I am therefore improving my lifestyle as preparation for upcoming challenges and launching a few programmes as my legacy to the communities I am currently engaging.
+          Time flies and it has been 2023, and I am delighted to have graduated from Imperial College London and joined the CDT Mathematics of Random Systems. 
+          This webpage contains my original masterplans, review, as well as (teaching) announcements.
 
           - The main goal of the master plan is to **develop a healthier lifestyle, have breakthroughs in mathematics 
           and contribute to the sustainable development of the communities I am engaging in, including the mathematics and Christian communities.**
@@ -83,11 +83,7 @@ params:
           [*christianity*](/masterplan-2022/christianity) and [*personal branding*](/masterplan-2022/branding).
 
           - You can also sort the posts by [*categories*](/masterplan-2022/categories) and [*tags*](/masterplan-2022/tags)
-
-          - **Weekly Planner:** [*January*](/masterplan-2022/posts/jan21-weekly-plan), [*February*](/masterplan-2022/posts/feb21-weekly-plan), [*March*](/masterplan-2022/posts/mar21-weekly-plan)
-
-          - **Study Group:** [*Measure and Integration*](/masterplan-2022/posts/measure-and-integration), [*Sunday Morning Devotion*](/masterplan-2022/posts/sunday-devotion)
-
+          
     socialIcons:
         - name: website
           url: "https://samuel-chlam.github.io/newsite/"
