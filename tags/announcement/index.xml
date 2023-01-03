@@ -9,7 +9,17 @@
       <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 May 2022 14:25:48 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 17:29:28 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minor Prophets</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/minor-prophets/</link>
+      <pubDate>Thu, 14 Jul 2022 17:29:28 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/minor-prophets/</guid>
+      <description>Jonah Day 1: Jonah 1:1-13 Jesus asked Jonah to preach against the great city of Nineveh, but Jonah ran away and boarded a ship at Tarshish.
+The wickedness of Nineveh scared Jonah away. Interesting that Jonah asked the sailors to throw him into the sea. Do you think Jonah is a good servant of God? </description>
+    </item>
+    
     <item>
       <title>Sunday Devotion</title>
       <link>https://samuel-chlam.github.io/masterplan-2022/posts/sunday-devotion-0805/</link>
@@ -28,6 +38,15 @@ Questions By only just verse 26, can you infer what the verse is about? In verse
       <guid>https://samuel-chlam.github.io/masterplan-2022/posts/covid_information/</guid>
       <description>It is with great regret to inform you that I have been tested positive for COVID-19. For logistics purpose, I have created this post to list out key testing results and key contacts for your references. Some information has been redacted for privacy purposes.
 Key Testing Results Negative LFD result on 21/3 (Monday) afternoon. Mild symptom (coughing) developed on 22/3 (Tuesday) evening. A LFD test was done later that night and had negative result.</description>
+    </item>
+    
+    <item>
+      <title>MandI Jan26 Sigma Algebra</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan26-sigma-algebra/</link>
+      <pubDate>Sat, 29 Jan 2022 17:08:56 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan26-sigma-algebra/</guid>
+      <description>Summary We have done previous exercise on semi-norm. Facts about $\sigma$-algebra Uncountable intersection of $\sigma$-algebra is also a $\sigma$-algebra. That is why it makes sense to talk about &amp;ldquo;the smallest $\sigma$-algebra&amp;rdquo; containing certain subset of power set. To prove $\sigma(C) \subseteq \mathcal{F}$ you show that $C$ is contained in $\mathcal{F}$. Exercise Make sure you have read the proof of Carathedory extension theorem and the notions of null set. You can preview the proofs by looking at chapter 3 of my notes.</description>
     </item>
     
     <item>
@@ -51,6 +70,17 @@ Incompleteness of $L^p$ space induced by Riemann Integral, e.</description>
       <description>Objective This is a trial study group as a follow up of the lectures of the course MATH50006 Lebesgue Measure and Integration (Imperial login required.)
 Logistics Venue: Math Learning Centre (MLC, Huxley 414), Huxley Building, Imperial Time: 9.30am - 11.00am every Wednesday. Content: discussion of materials from the Tuesday lecture. Materials: See the relevant MathWiki page. (Imperial login required.)
 Timetable Week 3 (19/1) - Introduction, Function Spaces Week 4 (26/1) - Axioms of measure Week 5 (2/2) - Construction of measure I Week 6 (9/2) - Construction of measure II and Convergence almost everywhere.</description>
+    </item>
+    
+    <item>
+      <title>Sunday Devotion</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/sunday-devotion/</link>
+      <pubDate>Mon, 10 Jan 2022 00:37:07 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/sunday-devotion/</guid>
+      <description>Objective This is a trial devotion session to encourage CYF members developing habits of morning devotion. We will be reading 1 John every Sunday before the main service. It would be expanded if there are good outcomes.
+Logistics Venue: McDonald&amp;rsquo;s in Hammersmith Broadway Time: 8.30am - 9.15am every Sunday. Content: discussion of prescribed materials and catchup. We will be reading 1 John.
+Timetable 16/1 (Samuel) - Chapter 1 What is the word of life (v2)?</description>
     </item>
     
   </channel>
