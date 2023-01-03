@@ -12,80 +12,8 @@ draft: true
 # Overview
 This is a review of 2022. I will include more details.
 
-# Introduction
-- thanking everyone for a wonderful and enjoyable 2022, graduation
-
-# Academic
-TL,DR:
-- Final year at Imperial, first year at Oxford.
-
-## At Imperial: 
-- Research project on equivalence of experiments
-- Coursework on PDE, Optimisation, Asymptotic Analysis, Dynamics of Games, Mathematical Biology.
-- Serve as webmaster
-- Graduate with IMA membership
-
-## At Oxford
-
-### Progress
-- Research project on ODE methods for reinforcement learning
-- Side project on activation for neural network
-- Completed coursework on topics in stochastic processes
-
-### A summary for the programme
-Main objective is to develop a further understanding on deep neural network, including
-- expressivity of neural network
-- generalisation property of neural network (e.g. applications of Neural Tangent Kernels)
-- dynamics of optimisation algorithms
-- applications of neural networks in numerical solutions to deterministic and stochastic differential equations, as well as optimal control problems.
-
-Side objectives include
-- further understanding of the geometry aspects of theories of deep learning (e.g. topological data analysis) and random matrix theory.
-- basic understanding of rough path theory and signature kernels
-- practical data science experience, e.g. internship
-- practical teaching and outreach experience
-
-
-# Academic Outreach
-TL,DR:
-- Successful launch of Imperial Wiki Project, need more contributions from more people
-- New teaching in Oxford on deep learning
-- Written an article for Logos Academy
-
-## Imperial Wiki Project
-
-### Content development
-- Very good progress. There are summaries to most year 1/2 modules. 
-- Notes (official/unofficial) are available for most of the year 3 modules.
-- Year 3/4/Postgrad applied modules: hard to develop further as lecturers do not welcome the idea of Wiki (to be explained)
-- Year 3/4/Postgrad statistics modules: not at priority.
-- Continue to look for helpers
-
-### Personal Projects
-- Probability Theory (ongoing) - chapters on martingale need to be completed
-- Optimisation (ongoing) - 90% done, need case studies
-- Multivariate Statistical Analysis (ongoing) - 50% done
-- Statistical Modelling I - summary completed, need case studies
-- Differential Equations - summary completed, need case studies
-- Methods of Data Science (to begin)
-
-### Usage: 
-- most people navigate to the module homepage, even for the cases when module summaries are available.
-- Advertisement has been made: welcome booklets, lectures.
-- Some year 1 students commented that the summary pages are not very useful as notes are already provided as part of the Covid guidance. MathWiki is working on improving the quality of notes, e.g. include more (coding) examples and making the summaries shorter.
-
-### Collaboration with other Wiki
-(Taking from the WikiSoc termly incubator report)
-- LaTeX workshop
-- cross-deoartmental social held in mid-December. Agreement on updates at a regular basis.
-- spring activities include UROP talks and tutorials on GitHub
-
-## Teaching in Oxford
-- To begin in 2023 on deep learning
-
-## Logos Academy
-- Written an article entry for the school magazine on the topic of linear regression. May work on further articles in the future.
-- Visit in early January of 2023
+# Graduation
+Perhaps the biggest highlight of the year would be my graduation from Imperial College.
 
 # Christianity
 TL;DR
