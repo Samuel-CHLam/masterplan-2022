@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CYF on Samuel&#39;s Masterplan 2022</title>
+    <title>CYF on Samuel Lam&#39;s Blogs</title>
     <link>https://samuel-chlam.github.io/masterplan-2022/categories/cyf/</link>
-    <description>Recent content in CYF on Samuel&#39;s Masterplan 2022</description>
+    <description>Recent content in CYF on Samuel Lam&#39;s Blogs</description>
     <image>
       <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 02:30:00 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/cyf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/cyf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review 2022 - Appendix: Clarification for CYF interview, 2022 edition</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/clarification_of_cyf_interview_2022/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/clarification_of_cyf_interview_2022/</guid>
+      <description>This is a guidance valid in the academic year of 2021-22. Some policies may be altered for this academic year.
+TL;DR:
+Clarification for confirmation of faith Interview process The CYF is governed by a committee, supervised by a panel of advisors. The committee is formed by an election under the simple majority system to allow equal representation from different parties in CYF. We believe that CYF committees are elected under the guidance of the same Holy Spirit.</description>
+    </item>
+    
     <item>
       <title>Review 2022 - Appendix: Reflection on CYF</title>
       <link>https://samuel-chlam.github.io/masterplan-2022/posts/reflection_on_cyf_2022/</link>
