@@ -20,7 +20,4 @@ The masterplan 2022 is an integration of various ambitious plans, outlined for p
 - Personal Branding
 
 # Pushing
-The old phrase seemed to be this but I am not sure?
-```
-git submodule add -b master git@github.com:<USERNAME>/<USERNAME>.github.io.git public
-```
+A GitHub workflow has been setup for pushing the website to GitHub pages. You can view the raw file at `.github/workflows/hugo.yml`.

@@ -1,5 +1,5 @@
 baseURL: "https://samuel-chlam.github.io/masterplan-2022/"
-title: Samuel's Masterplan 2022
+title: Samuel Lam's Blogs
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: "Samuel's Masterplan, Teaching and Blogs"
+    title: "Samuel's Blogs"
     description: "The site documents my masterplan, reviews and teaching pages."
     keywords: [Blog, Portfolio, PaperMod]
     author: "Samuel Lam"

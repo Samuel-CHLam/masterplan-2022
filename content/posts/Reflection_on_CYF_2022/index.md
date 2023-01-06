@@ -66,8 +66,9 @@ This is an interesting reflection that has come up in my mind during ongoing dis
 - contributing to group socials
 - leading in Sunday bible study (TBC)
 
-* currently recruiting members
-** traditionally the committee would invite members individually
+*currently recruiting members
+
+**traditionally the committee would invite members individually
 
 I appreciate the current diversity of the roles available for members to serve, but I believe we could go further. At the end of the day, christian fellowship is a community for members to support each other in their growth as a christian. To achieve this main objective, more opportunities for serving/trainings should be available in the field of teaching and/or pastoral support. For instance, 
 - group leaders could invite interested members to lead discussions after the main programme
@@ -77,15 +78,19 @@ I appreciate the current diversity of the roles available for members to serve, 
 
 With the exception for the last item, the above serving roles do not require too much technical skills (in music/cooking/arts etc.), so general members could get involved into these roles easily (and do not feel left out). In addition, the above roles are, perhaps, more relevant to the main goals of the fellowship, and would serve as a good preparation for serving as a committee member.
 
-*Remark:* 
+### Remark
 - It is also very important for members who are interested in serving (at specific roles) to make their preferences clear to the committee, and that members are encouraged to be open-minded with how they could get involved in CYF in general. I am especially fortunate to serve in church worship team as I approached individual worship leaders.
 - The constitution of CYF has also pointed out that CYF should encourage members to get involved in other seriving roles in CCiL.
 - Finally, it is always important to remember why we are serving God, see above.
 
-## Working Practice
+## Working practice and time management
 > Teach us to number our days, that we may gain a heart of wisdom. (Psalm 90:12)
 
-# Clarification on election
+I believe the next committee has done a marvellous job in planning ahead of time. All committee members have opportunities to contribute to the planning of programmes, which speed up the brainstorming process. It is also a good practice to prepare agenda before the actual meeting to allow time for committee members to response. Finally, more people could get involved in thinking about the programme content if appropriate (see above).
+
+Committee should be aware of the extra time needed for interviews for new members and prospective new committees. It takes around 30-45 minutes for each interview, so it might be appropriate to start the members' interviews in February. Current committees and advisors should also reserve a week in late May to conduct interviews for prospective committees - it could potentially take >10 hours to complete all interviews.
+
+Please also refer to the interview guidance [here](https://samuel-chlam.github.io/masterplan-2022/posts/clarification_of_cyf_interview_2022/).
 
 # External Links 
 - [Handover Folder](https://drive.google.com/drive/folders/19NCe_Z2RZ2sLjtIeMUMIxnJQO_eBh0Iq?usp=sharing)
