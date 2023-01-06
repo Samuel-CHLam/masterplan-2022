@@ -1,6 +1,6 @@
 ---
 author: "Samuel Lam"
-title: "Review 2022 - Academic"
+title: "Review 2022 - Academic Outreach"
 categories: ["2022"]
 tags: ["review"]
 ShowToc: true
