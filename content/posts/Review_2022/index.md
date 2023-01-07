@@ -5,41 +5,17 @@ categories: ["2022"]
 tags: ["review"]
 ShowToc: true
 TocOpen: true
-date: 2023-01-01T21:00:00+08:00
+date: 2023-01-08T01:00:00+08:00
 draft: true
 ---
 
-# Overview
-This is a review of 2022. I will include more details.
+Dear readers,
 
-# Graduation
-Perhaps the biggest highlight of the year would be my graduation from Imperial College.
+Thank you for reading my review of 2022, which highlights significant achievements made during the year, my reflections and my rough planning for 2023. 
 
-# Miscellaneous
-## Webpage development service
-- MathSoc and RailSoc
+Perhaps the biggest highlight of the year would be my graduation from Imperial College. If you know me well, then you would recognise that this was also my graduation for my primary and high school, as I haven't been formally graduating from those places. It is my pleasure to join the EPSRC CDT of Random Systems at University of Oxford to pursue my further studies in the theory of deep learning. This would not be possible without the help from God, as well as family and friends.
 
-## Music
-- Thanks the organ scholar for my college to teach me some organ! Pieces learn include hymns and chorales:
-- BWV600
-- Singing day with John Rutter
-- Further engagement in choirs
+Please continue to read the next few chapters of my review, and I hope you would enjoy reading them.
 
-Further development
-- Further chorales of Bach
-- Elf Choralvorspieles
-
-## Travelling
-- Southend
-- Isle of Wight
-- Spain
-- Reading
-- Two trips cancelled, one due to Covid and one due to Visa applications
-
-## Railway
-- Crossrail opening
-- Barking Riverside
-- First time in crosscountry
-
-# Conclusion
-Thanks for reading!
+Samuel Lam,
+February 2022.
