@@ -9,7 +9,28 @@
       <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 01:07:15 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review 2022 - Miscellaneous Entries</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/misc_review_2022/</link>
+      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/misc_review_2022/</guid>
+      <description>Let us conclude the review by covering the following
+Webpage development service In 2022 I have joined the Imperial College Mathematics Society (MathSoc) and Rail and Transport Society (ICRTS) as a webmaster to upgrade their society website. The website has been upgraded from the PHP framework to the user-family React.js framework, and efforts have been made to improve the design of the website. My duties as webmaster were successfully handed over to new committee members, including Chris Boddy (MathSoc) and Madalina Ioana-Sas (ICRTS).</description>
+    </item>
+    
+    <item>
+      <title>Review of 2022 - an overview</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</link>
+      <pubDate>Sun, 08 Jan 2023 01:00:00 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</guid>
+      <description>Dear readers,
+Thank you for reading my review of 2022, which highlights significant achievements made during the year, my reflections and my rough planning for 2023.
+Perhaps the biggest highlight of the year would be my graduation from Imperial College. If you know me well, then you would recognise that this was also my graduation for my primary and high school, as I haven&amp;rsquo;t been formally graduating from those places. It is my pleasure to join the EPSRC CDT of Random Systems at University of Oxford to pursue my further studies in the theory of deep learning.</description>
+    </item>
+    
     <item>
       <title>Review 2022 - Appendix: Clarification for CYF interview, 2022 edition</title>
       <link>https://samuel-chlam.github.io/masterplan-2022/posts/clarification_of_cyf_interview_2022/</link>
@@ -59,18 +80,6 @@ Successful launch of Imperial Wiki Project, require more contributions from memb
       <guid>https://samuel-chlam.github.io/masterplan-2022/posts/academic_review_2022/</guid>
       <description>TL,DR:
 Research project at Imperial on equivalence of non-parametric statistical experiments. Coursework at Imperial on functional analysis, optimisation, asymptotic methods, dynamics of games and mathematical biology. Research project at CDT Mathematics of Random Systems on theories of deep learning The final year at Imperial Research Project The major highlight of the year would be the completion of my final year dissertation with Prof. Alastair Young. The dissertation focuses on the equivalence of three non-parametric statistical experiments, including kernel density estimation, regression on Gaussian white noise and regression on Gaussian sequence.</description>
-    </item>
-    
-    <item>
-      <title>Review of 2022 - an overview</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</link>
-      <pubDate>Sun, 01 Jan 2023 21:00:00 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</guid>
-      <description>Overview This is a review of 2022. I will include more details.
-Graduation Perhaps the biggest highlight of the year would be my graduation from Imperial College.
-Miscellaneous Webpage development service MathSoc and RailSoc Music Thanks the organ scholar for my college to teach me some organ! Pieces learn include hymns and chorales: BWV600 Singing day with John Rutter Further engagement in choirs Further development
-Further chorales of Bach Elf Choralvorspieles Travelling Southend Isle of Wight Spain Reading Two trips cancelled, one due to Covid and one due to Visa applications Railway Crossrail opening Barking Riverside First time in crosscountry Conclusion Thanks for reading!</description>
     </item>
     
   </channel>
