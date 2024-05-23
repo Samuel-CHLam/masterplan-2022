@@ -50,7 +50,7 @@ params:
         # safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Samuel's Master Plan 2022"
+        text: "Blog of Samuel Lam"
         # icon: /apple-touch-icon.png
         # iconHeight: 35
 
@@ -71,9 +71,9 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "It has been 20.5 years - what's next?"
+        Title: "It has been 22 years - what's next?"
         Content: > 
-          Time flies and it has been 2023, and I am delighted to have graduated from Imperial College London and joined the CDT Mathematics of Random Systems. 
+          Heading to the half-way point of my DPhil, it's time to think about what's next. 
           This webpage contains my original masterplans, review, as well as (teaching) announcements.
 
           - The main goal of the master plan is to **develop a healthier lifestyle, have breakthroughs in mathematics 
