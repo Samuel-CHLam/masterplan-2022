@@ -4,10 +4,8 @@ categories: ["2024", "academic"]
 tags: ["review"]
 ShowToc: true
 TocOpen: true
-date: 2024-05-23T17:00:00+01:00
-cover:
-  image: images/banner.jpg
-  caption: "Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner."
+date: "2024-05-23"
+draft: true
 ---
 
 ![Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner.](images/banner.jpg)
