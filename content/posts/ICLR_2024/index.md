@@ -10,6 +10,8 @@ cover:
   caption: "Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner."
 ---
 
+![Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner.](images/iclr_main.jpg)
+
 *Report on the 12th International Conference on Learning and Representations (ICLR) for Old Members’ Trust Graduate Conference and Academic Travel Fund – Samuel Lam1 (CDT Mathematics of Random Systems, University College)*
 
 # Introduction 
@@ -30,7 +32,7 @@ Finally, some of the senior researchers had kindly shared their insights into th
 
 # Vienna was a great city to visit!
 
-![Outside of Musikverein.](images/music_association.jpg)
+![Outside of Musikverein.](images/music_association.png)
 
 Vienna is known for its profound musical culture and the legacy of the royal Habsburg family. I was happy to join a city tour the night before the conference. This gave me the opportunity to learn more about the stories behind many of Vienna's interesting buildings and to network with other conference participants. I also attended some classical music concerts outside of conference hours, including a performance of Bruckner's Symphony No. 5 by the world-class Royal Concertgebouw Orchestra at the Musikverein, and a selection of works by Mozart and Strauss at the historic palace of Hofburg.
 
