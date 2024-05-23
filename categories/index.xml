@@ -10,20 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 01:07:15 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2022</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/2022/</link>
-      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/2022/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 23 May 2024 17:00:00 +0100</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024</title>
       <link>https://samuel-chlam.github.io/masterplan-2022/categories/2024/</link>
-      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
+      <pubDate>Thu, 23 May 2024 17:00:00 +0100</pubDate>
       
       <guid>https://samuel-chlam.github.io/masterplan-2022/categories/2024/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>Academic</title>
       <link>https://samuel-chlam.github.io/masterplan-2022/categories/academic/</link>
-      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
+      <pubDate>Thu, 23 May 2024 17:00:00 +0100</pubDate>
       
       <guid>https://samuel-chlam.github.io/masterplan-2022/categories/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/categories/2022/</link>
+      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/2022/</guid>
       <description></description>
     </item>
     

@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 01:07:15 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 May 2024 17:00:00 +0100</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trip Report for ICLR 2024</title>
+      <link>https://samuel-chlam.github.io/masterplan-2022/posts/iclr_2024/</link>
+      <pubDate>Thu, 23 May 2024 17:00:00 +0100</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/iclr_2024/</guid>
+      <description>Report on the 12th International Conference on Learning and Representations (ICLR) for Old Members’ Trust Graduate Conference and Academic Travel Fund – Samuel Lam1 (CDT Mathematics of Random Systems, University College)
+Introduction The International Conference on Learning and Representations (ICLR) is one of the most prestigious conferences on machine learning. Nearly 6000 academics2 and industrial partners with diverse academic backgrounds gathered in Vienna to discuss the latest advancements in the fields.</description>
+    </item>
+    
     <item>
       <title>Review 2022 - Miscellaneous Entries</title>
       <link>https://samuel-chlam.github.io/masterplan-2022/posts/misc_review_2022/</link>
@@ -19,17 +29,6 @@
       <guid>https://samuel-chlam.github.io/masterplan-2022/posts/misc_review_2022/</guid>
       <description>Let us conclude the review by covering the following
 Webpage development service In 2022 I have joined the Imperial College Mathematics Society (MathSoc) and Rail and Transport Society (ICRTS) as a webmaster to upgrade their society website. The website has been upgraded from the PHP framework to the user-family React.js framework, and efforts have been made to improve the design of the website. My duties as webmaster were successfully handed over to new committee members, including Chris Boddy (MathSoc) and Madalina Ioana-Sas (ICRTS).</description>
-    </item>
-    
-    <item>
-      <title>Trip Report for ICLR 2024</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/iclr_2024/</link>
-      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/iclr_2024/</guid>
-      <description>Report on the 12th International Conference on Learning and Representations (ICLR) for Old Members’ Trust Graduate Conference and Academic Travel Fund – Samuel Lam1 (CDT Mathematics of Random Systems, University College)
-Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner
-Introduction The International Conference on Learning and Representations (ICLR) is one of the most prestigious conferences on machine learning. Nearly 6000 academics2 and industrial partners with diverse academic backgrounds gathered in Vienna to discuss the latest advancements in the fields.</description>
     </item>
     
     <item>
