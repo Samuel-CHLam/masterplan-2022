@@ -11,7 +11,7 @@ draft: true
 ![Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner.](images/banner.jpg)
 *Picture: Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner.*
 
-*Report on the 12th International Conference on Learning and Representations (ICLR) for Old Members’ Trust Graduate Conference and Academic Travel Fund – [Samuel Lam](https://wcr.univ.ox.ac.uk/#profile/Samuel-CHLam) (CDT Mathematics of Random Systems, University College)*
+*Report on the 12th International Conference on Learning and Representations (ICLR) for Old Members’ Trust Graduate Conference and Academic Travel Fund – [Samuel Lam](https://www.univ.ox.ac.uk/news/profile-samuel-chun-hei-lam/) (CDT Mathematics of Random Systems, University College)*
 
 # Introduction 
 
