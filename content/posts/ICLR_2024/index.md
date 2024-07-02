@@ -11,11 +11,11 @@ draft: true
 ![Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner.](images/banner.jpg)
 *Picture: Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner.*
 
-*Report on the 12th International Conference on Learning and Representations (ICLR) for Old Members’ Trust Graduate Conference and Academic Travel Fund – [Samuel Lam](https://www.univ.ox.ac.uk/news/profile-samuel-chun-hei-lam/) (CDT Mathematics of Random Systems, University College)*
+*Report on the 12th International Conference on Learning Representations (ICLR) for Old Members’ Trust Graduate Conference and Academic Travel Fund – [Samuel Lam](https://www.univ.ox.ac.uk/news/profile-samuel-chun-hei-lam/) (CDT Mathematics of Random Systems, University College)*
 
 # Introduction 
 
-The International Conference on Learning and Representations (ICLR) is one of the most prestigious conferences on machine learning. Nearly 6000 academics[^1] and industrial partners with diverse academic backgrounds gathered in Vienna to discuss the latest advancements in the fields. I am honoured to present, with my colleagues, a project (as poster) on the sparsity of neural network, completed as part of my Centre of Doctoral Training (CDT) programme. The trip was made possible thanks to the generous fundings from University College and the CDT programme. 
+The International Conference on Learning Representations (ICLR) is one of the most prestigious conferences on machine learning. Nearly 6000 academics[^1] and industrial partners with diverse academic backgrounds gathered in Vienna to discuss the latest advancements in the fields. I am honoured to present, with my colleagues, a project (as poster) on the sparsity of neural network, completed as part of my Centre of Doctoral Training (CDT) programme. The trip was made possible thanks to the generous fundings from University College and the CDT programme. 
 
 # What's on? 
 
