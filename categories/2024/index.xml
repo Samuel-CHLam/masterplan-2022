@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2024 on Samuel Lam&#39;s Blogs</title>
-    <link>https://samuel-chlam.github.io/masterplan-2022/categories/2024/</link>
+    <link>https://samuel-chlam.github.io/news/categories/2024/</link>
     <description>Recent content in 2024 on Samuel Lam&#39;s Blogs</description>
     <image>
-      <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/2024/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-chlam.github.io/news/categories/2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statutory Report for Oxford-Radcliffe Scholarship</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/report_2024/</link>
+      <link>https://samuel-chlam.github.io/news/posts/report_2024/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/report_2024/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/report_2024/</guid>
       <description>Academic Work This academic year was blessed with the end of CDT coursework and numerous mini-projects, leading to the successful transition to a DPhil student. My research focused on the asymptotics of neural networks, the fundamental ingredient of many successful models in machine learning. As the number of parameters increases, neural networks usually exhibit more tractable behaviour, which contributes to the development of cleaner approaches to studying the training of neural networks.</description>
     </item>
     
     <item>
       <title>Trip Report for ICLR 2024</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/iclr_2024/</link>
+      <link>https://samuel-chlam.github.io/news/posts/iclr_2024/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/iclr_2024/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/iclr_2024/</guid>
       <description>Picture: Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner.
 Report on the 12th International Conference on Learning Representations (ICLR) for Old Members’ Trust Graduate Conference and Academic Travel Fund – Samuel Lam (CDT Mathematics of Random Systems, University College)
 Introduction The International Conference on Learning Representations (ICLR) is one of the most prestigious conferences on machine learning. Nearly 6000 academics1 and industrial partners with diverse academic backgrounds gathered in Vienna to discuss the latest advancements in the fields.</description>

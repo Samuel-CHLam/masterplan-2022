@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Academic Outreach on Samuel Lam&#39;s Blogs</title>
-    <link>https://samuel-chlam.github.io/masterplan-2022/categories/academic-outreach/</link>
+    <link>https://samuel-chlam.github.io/news/categories/academic-outreach/</link>
     <description>Recent content in Academic Outreach on Samuel Lam&#39;s Blogs</description>
     <image>
-      <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Jan 2022 03:23:20 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/academic-outreach/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 03:23:20 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/news/categories/academic-outreach/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic Outreach</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/academic-outreach/</link>
+      <link>https://samuel-chlam.github.io/news/academic-outreach/</link>
       <pubDate>Sat, 08 Jan 2022 03:23:20 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/academic-outreach/</guid>
+      <guid>https://samuel-chlam.github.io/news/academic-outreach/</guid>
       <description>Promotion of mathematics is divided into three main programmes: Integrated study group and MathWiki, MathSoc engagement and general outreach
 MathWiki August Research on network analysis between pages Continuous development Roadmap: something like MIT Official Roadmap Encourage allowing access to overview pages of each course. MathSoc to collect examples of M1R and M2R. MathSoc to liaise with more faculties. Technical development: incorporating LaTeX editors. Can we include the cost of buying domain + running server into annual budget?</description>
     </item>

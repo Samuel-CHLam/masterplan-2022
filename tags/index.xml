@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Samuel Lam&#39;s Blogs</title>
-    <link>https://samuel-chlam.github.io/masterplan-2022/tags/</link>
+    <link>https://samuel-chlam.github.io/news/tags/</link>
     <description>Recent content in Tags on Samuel Lam&#39;s Blogs</description>
     <image>
-      <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-chlam.github.io/news/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/tags/review/</link>
+      <link>https://samuel-chlam.github.io/news/tags/review/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/tags/review/</guid>
+      <guid>https://samuel-chlam.github.io/news/tags/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/tags/discussion/</link>
+      <link>https://samuel-chlam.github.io/news/tags/discussion/</link>
       <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/tags/discussion/</guid>
+      <guid>https://samuel-chlam.github.io/news/tags/discussion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Announcement</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/tags/announcement/</link>
+      <link>https://samuel-chlam.github.io/news/tags/announcement/</link>
       <pubDate>Thu, 14 Jul 2022 17:29:28 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/tags/announcement/</guid>
+      <guid>https://samuel-chlam.github.io/news/tags/announcement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statutory</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/tags/statutory/</link>
+      <link>https://samuel-chlam.github.io/news/tags/statutory/</link>
       <pubDate>Sat, 08 Jan 2022 03:23:20 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/tags/statutory/</guid>
+      <guid>https://samuel-chlam.github.io/news/tags/statutory/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Outreach on Samuel Lam&#39;s Blogs</title>
-    <link>https://samuel-chlam.github.io/masterplan-2022/categories/outreach/</link>
+    <link>https://samuel-chlam.github.io/news/categories/outreach/</link>
     <description>Recent content in Outreach on Samuel Lam&#39;s Blogs</description>
     <image>
-      <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Jan 2022 17:08:56 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 17:08:56 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/news/categories/outreach/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MandI Jan26 Sigma Algebra</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan26-sigma-algebra/</link>
+      <link>https://samuel-chlam.github.io/news/posts/mandi-jan26-sigma-algebra/</link>
       <pubDate>Sat, 29 Jan 2022 17:08:56 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan26-sigma-algebra/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/mandi-jan26-sigma-algebra/</guid>
       <description>Summary We have done previous exercise on semi-norm. Facts about $\sigma$-algebra Uncountable intersection of $\sigma$-algebra is also a $\sigma$-algebra. That is why it makes sense to talk about &amp;ldquo;the smallest $\sigma$-algebra&amp;rdquo; containing certain subset of power set. To prove $\sigma(C) \subseteq \mathcal{F}$ you show that $C$ is contained in $\mathcal{F}$. Exercise Make sure you have read the proof of Carathedory extension theorem and the notions of null set. You can preview the proofs by looking at chapter 3 of my notes.</description>
     </item>
     
     <item>
       <title>MathWiki Catchup 20/1</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mathwiki_jan-20-meeting-presentation/</link>
+      <link>https://samuel-chlam.github.io/news/posts/mathwiki_jan-20-meeting-presentation/</link>
       <pubDate>Thu, 20 Jan 2022 09:23:23 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mathwiki_jan-20-meeting-presentation/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/mathwiki_jan-20-meeting-presentation/</guid>
       <description>The following is the agenda for the MathWiki catchup on 20/1/2022 (Thursday) 5pm on Microsoft Teams.
 Participants:
 Amir (MathSoc President) Samuel (MathSoc Webmaster) Thomas (ImperialWiki Cofounder) Luc (ImperialWiki Student Partner) David (ImperialWiki Student Partner) Agenda
@@ -34,10 +34,10 @@ Updates on MathWiki website Proposed development Preparation of Student-Staff Co
     
     <item>
       <title>M&amp;I Week 3 - Introduction</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan-20-introduction/</link>
+      <link>https://samuel-chlam.github.io/news/posts/mandi-jan-20-introduction/</link>
       <pubDate>Thu, 20 Jan 2022 09:07:47 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan-20-introduction/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/mandi-jan-20-introduction/</guid>
       <description>Follow up of lectures Formalisation of Riemann (Darboux) Integral: the upper and lower Darboux sum is defined as $$U(f) = \inf_\mathcal{P} U(f,\mathcal{P}), \quad L(f) = \sup_\mathcal{P} L(f,\mathcal{P})$$ where
 $$U(f,\mathcal{P} = (x_i)_{i=0}^n) = \sum _{i=0}^{n-1} \left( \sup _{x \in [x_i, x _{i+1})} f(x) \right) (x _{i+1} - x_i)$$
 $$L(f,\mathcal{P} = (x_i)_{i=0}^n) = \sum _{i=0}^{n-1} \left( \inf _{x \in [x_i, x _{i+1})} f(x) \right) (x _{i+1} - x_i)$$
@@ -46,10 +46,10 @@ Incompleteness of $L^p$ space induced by Riemann Integral, e.</description>
     
     <item>
       <title>Measure and Integration Study Group</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/measure-and-integration/</link>
+      <link>https://samuel-chlam.github.io/news/posts/measure-and-integration/</link>
       <pubDate>Wed, 19 Jan 2022 10:10:07 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/measure-and-integration/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/measure-and-integration/</guid>
       <description>Objective This is a trial study group as a follow up of the lectures of the course MATH50006 Lebesgue Measure and Integration (Imperial login required.)
 Logistics Venue: Math Learning Centre (MLC, Huxley 414), Huxley Building, Imperial Time: 9.30am - 11.00am every Wednesday. Content: discussion of materials from the Tuesday lecture. Materials: See the relevant MathWiki page. (Imperial login required.)
 Timetable Week 3 (19/1) - Introduction, Function Spaces Week 4 (26/1) - Axioms of measure Week 5 (2/2) - Construction of measure I Week 6 (9/2) - Construction of measure II and Convergence almost everywhere.</description>

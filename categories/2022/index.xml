@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2022 on Samuel Lam&#39;s Blogs</title>
-    <link>https://samuel-chlam.github.io/masterplan-2022/categories/2022/</link>
+    <link>https://samuel-chlam.github.io/news/categories/2022/</link>
     <description>Recent content in 2022 on Samuel Lam&#39;s Blogs</description>
     <image>
-      <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 01:07:15 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 01:07:15 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/news/categories/2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review 2022 - Miscellaneous Entries</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/misc_review_2022/</link>
+      <link>https://samuel-chlam.github.io/news/posts/misc_review_2022/</link>
       <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/misc_review_2022/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/misc_review_2022/</guid>
       <description>Let us conclude the review by covering the following
 Webpage development service In 2022 I have joined the Imperial College Mathematics Society (MathSoc) and Rail and Transport Society (ICRTS) as a webmaster to upgrade their society website. The website has been upgraded from the PHP framework to the user-family React.js framework, and efforts have been made to improve the design of the website. My duties as webmaster were successfully handed over to new committee members, including Chris Boddy (MathSoc) and Madalina Ioana-Sas (ICRTS).</description>
     </item>
     
     <item>
       <title>Review of 2022 - an overview</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</link>
+      <link>https://samuel-chlam.github.io/news/posts/review_2022/</link>
       <pubDate>Sun, 08 Jan 2023 01:00:00 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/review_2022/</guid>
       <description>Dear readers,
 Thank you for reading my review of 2022, which highlights significant achievements made during the year, my reflections and my rough planning for 2023.
 Perhaps the biggest highlight of the year would be my graduation from Imperial College. If you know me well, then you would recognise that this was also my graduation for my primary and high school, as I haven&amp;rsquo;t been formally graduating from those places. It is my pleasure to join the EPSRC CDT of Random Systems at University of Oxford to pursue my further studies in the theory of deep learning.</description>
@@ -34,10 +34,10 @@ Perhaps the biggest highlight of the year would be my graduation from Imperial C
     
     <item>
       <title>Review 2022 - Appendix: Clarification for CYF interview, 2022 edition</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/clarification_of_cyf_interview_2022/</link>
+      <link>https://samuel-chlam.github.io/news/posts/clarification_of_cyf_interview_2022/</link>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/clarification_of_cyf_interview_2022/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/clarification_of_cyf_interview_2022/</guid>
       <description>This is a guidance valid in the academic year of 2021-22. Some policies may be altered for this academic year.
 TL;DR:
 Clarification for confirmation of faith Interview process The CYF is governed by a committee, supervised by a panel of advisors. The committee is formed by an election under the simple majority system to allow equal representation from different parties in CYF. We believe that CYF committees are elected under the guidance of the same Holy Spirit.</description>
@@ -45,40 +45,40 @@ Clarification for confirmation of faith Interview process The CYF is governed by
     
     <item>
       <title>Review 2022 - Christianity</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/christianity_review_2022/</link>
+      <link>https://samuel-chlam.github.io/news/posts/christianity_review_2022/</link>
       <pubDate>Tue, 03 Jan 2023 03:00:00 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/christianity_review_2022/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/christianity_review_2022/</guid>
       <description>TL,DR:
 Serving in the Cantonese Youth Fellowship (CYF) Summer in the Chinese Churches in London (CCiL) Imperial College Christian Union (ICCU) Adapting in Oxford: community in St. Ebbes church, morning prayer in University College chapel and Oxford Cantonese Fellowship. Serving in the Cantonese Youth Fellowship Cantonese Youth Fellowship (CYF) is a fellowship in the Chinese Churches in London (CCiL), and has been nurturing many leaders that would later serve CCiL. It has been my priviledge to stay in CYF for four years, and to serve in the CYF committee for my second time.</description>
     </item>
     
     <item>
       <title>Review 2022 - Appendix: Reflection on CYF</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/reflection_on_cyf_2022/</link>
+      <link>https://samuel-chlam.github.io/news/posts/reflection_on_cyf_2022/</link>
       <pubDate>Tue, 03 Jan 2023 02:30:00 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/reflection_on_cyf_2022/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/reflection_on_cyf_2022/</guid>
       <description>TL;DR:
 My reflection for my service as vice-chair of the committee of CYF during the first half of 2022: humbleness, relationships with other members, dealing with complex issues. Further recommendations on diversity of serving, working practice. Clarifications on memberships and elections. I would like to firstly thank all communities who have been continuously praying for my continuous development as a christian. I am extremely delighted for my prayer made during my baptism in 2018 has been heard - that I have continuously grow in my faith.</description>
     </item>
     
     <item>
       <title>Review 2022 - Academic Outreach</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/academic_outreach_review_2022/</link>
+      <link>https://samuel-chlam.github.io/news/posts/academic_outreach_review_2022/</link>
       <pubDate>Tue, 03 Jan 2023 01:00:00 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/academic_outreach_review_2022/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/academic_outreach_review_2022/</guid>
       <description>TL,DR:
 Successful launch of Imperial Wiki Project, require more contributions from members of Imperial College. Teaching assistantship in Oxford on Deep Learning Written an article for Logos Academy Imperial MathsWiki Project My personal highlight on academic outreach would have been (co-)founding Imperial College MathsWiki (MathsWiki) with the collaboration from Imperial Wiki Project (WikiSoc, previously Imperial College ChemWiki), as a spin-off from the society webpage upgrade project for the Imperial College Mathematics Society (MathSoc).</description>
     </item>
     
     <item>
       <title>Review 2022 - Academic</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/academic_review_2022/</link>
+      <link>https://samuel-chlam.github.io/news/posts/academic_review_2022/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/academic_review_2022/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/academic_review_2022/</guid>
       <description>TL,DR:
 Research project at Imperial on equivalence of non-parametric statistical experiments. Coursework at Imperial on functional analysis, optimisation, asymptotic methods, dynamics of games and mathematical biology. Research project at CDT Mathematics of Random Systems on theories of deep learning The final year at Imperial Research Project The major highlight of the year would be the completion of my final year dissertation with Prof. Alastair Young. The dissertation focuses on the equivalence of three non-parametric statistical experiments, including kernel density estimation, regression on Gaussian white noise and regression on Gaussian sequence.</description>
     </item>
