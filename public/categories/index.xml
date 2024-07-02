@@ -1,111 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Samuel&#39;s Masterplan 2022</title>
-    <link>https://samuel-chlam.github.io/masterplan-2022/categories/</link>
-    <description>Recent content in Categories on Samuel&#39;s Masterplan 2022</description>
+    <title>Categories on Samuel Lam&#39;s Blogs</title>
+    <link>https://samuel-chlam.github.io/news/categories/</link>
+    <description>Recent content in Categories on Samuel Lam&#39;s Blogs</description>
     <image>
-      <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 03:00:00 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-chlam.github.io/news/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2022</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/2022/</link>
-      <pubDate>Tue, 03 Jan 2023 03:00:00 +0800</pubDate>
+      <title>2024</title>
+      <link>https://samuel-chlam.github.io/news/categories/2024/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>christian</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/christian/</link>
-      <pubDate>Thu, 14 Jul 2022 17:29:28 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/christian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CYF</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/cyf/</link>
-      <pubDate>Thu, 14 Jul 2022 17:29:28 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/cyf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M&amp;I</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/mi/</link>
-      <pubDate>Sat, 29 Jan 2022 17:08:56 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/mi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>outreach</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/outreach/</link>
-      <pubDate>Sat, 29 Jan 2022 17:08:56 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MathWiki</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/mathwiki/</link>
-      <pubDate>Thu, 20 Jan 2022 09:23:23 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/mathwiki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>miscellaneous</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/miscellaneous/</link>
-      <pubDate>Wed, 19 Jan 2022 10:09:12 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/miscellaneous/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>academic outreach</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/academic-outreach/</link>
-      <pubDate>Sat, 08 Jan 2022 03:23:20 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/academic-outreach/</guid>
+      <guid>https://samuel-chlam.github.io/news/categories/2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>academic</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/academic/</link>
-      <pubDate>Sat, 08 Jan 2022 03:03:31 +0800</pubDate>
+      <link>https://samuel-chlam.github.io/news/categories/academic/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/academic/</guid>
+      <guid>https://samuel-chlam.github.io/news/categories/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022</title>
+      <link>https://samuel-chlam.github.io/news/categories/2022/</link>
+      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/categories/2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>christian</title>
+      <link>https://samuel-chlam.github.io/news/categories/christian/</link>
+      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/categories/christian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CYF</title>
+      <link>https://samuel-chlam.github.io/news/categories/cyf/</link>
+      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/categories/cyf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M&amp;I</title>
+      <link>https://samuel-chlam.github.io/news/categories/mi/</link>
+      <pubDate>Sat, 29 Jan 2022 17:08:56 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/categories/mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outreach</title>
+      <link>https://samuel-chlam.github.io/news/categories/outreach/</link>
+      <pubDate>Sat, 29 Jan 2022 17:08:56 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/categories/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MathWiki</title>
+      <link>https://samuel-chlam.github.io/news/categories/mathwiki/</link>
+      <pubDate>Thu, 20 Jan 2022 09:23:23 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/categories/mathwiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miscellaneous</title>
+      <link>https://samuel-chlam.github.io/news/categories/miscellaneous/</link>
+      <pubDate>Wed, 19 Jan 2022 10:09:12 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/categories/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic outreach</title>
+      <link>https://samuel-chlam.github.io/news/categories/academic-outreach/</link>
+      <pubDate>Sat, 08 Jan 2022 03:23:20 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/categories/academic-outreach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>christianity</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/christianity/</link>
+      <link>https://samuel-chlam.github.io/news/categories/christianity/</link>
       <pubDate>Sat, 08 Jan 2022 01:17:40 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/christianity/</guid>
+      <guid>https://samuel-chlam.github.io/news/categories/christianity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lifestyle</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/categories/lifestyle/</link>
+      <link>https://samuel-chlam.github.io/news/categories/lifestyle/</link>
       <pubDate>Fri, 07 Jan 2022 10:46:47 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/categories/lifestyle/</guid>
+      <guid>https://samuel-chlam.github.io/news/categories/lifestyle/</guid>
       <description></description>
     </item>
     

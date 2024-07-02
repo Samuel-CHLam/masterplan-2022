@@ -1,62 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Samuel&#39;s Masterplan 2022</title>
-    <link>https://samuel-chlam.github.io/masterplan-2022/posts/</link>
-    <description>Recent content in Posts on Samuel&#39;s Masterplan 2022</description>
+    <title>Posts on Samuel Lam&#39;s Blogs</title>
+    <link>https://samuel-chlam.github.io/news/posts/</link>
+    <description>Recent content in Posts on Samuel Lam&#39;s Blogs</description>
     <image>
-      <url>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://samuel-chlam.github.io/masterplan-2022/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://samuel-chlam.github.io/news/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 03:00:00 +0800</lastBuildDate><atom:link href="https://samuel-chlam.github.io/masterplan-2022/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-chlam.github.io/news/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Review 2022 - Christianity (Part 2)</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/christianity_review_ii/</link>
-      <pubDate>Tue, 03 Jan 2023 03:00:00 +0800</pubDate>
+      <title>Statutory Report for Oxford-Radcliffe Scholarship</title>
+      <link>https://samuel-chlam.github.io/news/posts/report_2024/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/christianity_review_ii/</guid>
-      <description>Summer at CCiL Opportunity to serve as musician and AV support at CCiL Summer programme in August Directed reading Christian Union Reduced serving in CU. Enjoying fellowship. Engaging in the christmas carols Adapting in Oxford St. Ebbes University College Chapel: regular morning prayer and reading Oxford Cantonese Fellowship </description>
+      <guid>https://samuel-chlam.github.io/news/posts/report_2024/</guid>
+      <description>Academic Work This academic year was blessed with the end of CDT coursework and numerous mini-projects, leading to the successful transition to a DPhil student. My research focused on the asymptotics of neural networks, the fundamental ingredient of many successful models in machine learning. As the number of parameters increases, neural networks usually exhibit more tractable behaviour, which contributes to the development of cleaner approaches to studying the training of neural networks.</description>
     </item>
     
     <item>
-      <title>Review 2022 - Academic</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/academic_outreach_review_2022/</link>
+      <title>Trip Report for ICLR 2024</title>
+      <link>https://samuel-chlam.github.io/news/posts/iclr_2024/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/posts/iclr_2024/</guid>
+      <description>Picture: Picture of Samuel Lam with Adam Jones in front of the ICLR 2024 Banner.
+Report on the 12th International Conference on Learning Representations (ICLR) for Old Members’ Trust Graduate Conference and Academic Travel Fund – Samuel Lam (CDT Mathematics of Random Systems, University College)
+Introduction The International Conference on Learning Representations (ICLR) is one of the most prestigious conferences on machine learning. Nearly 6000 academics1 and industrial partners with diverse academic backgrounds gathered in Vienna to discuss the latest advancements in the fields.</description>
+    </item>
+    
+    <item>
+      <title>Review 2022 - Miscellaneous Entries</title>
+      <link>https://samuel-chlam.github.io/news/posts/misc_review_2022/</link>
+      <pubDate>Sun, 08 Jan 2023 01:07:15 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/posts/misc_review_2022/</guid>
+      <description>Let us conclude the review by covering the following
+Webpage development service In 2022 I have joined the Imperial College Mathematics Society (MathSoc) and Rail and Transport Society (ICRTS) as a webmaster to upgrade their society website. The website has been upgraded from the PHP framework to the user-family React.js framework, and efforts have been made to improve the design of the website. My duties as webmaster were successfully handed over to new committee members, including Chris Boddy (MathSoc) and Madalina Ioana-Sas (ICRTS).</description>
+    </item>
+    
+    <item>
+      <title>Review of 2022 - an overview</title>
+      <link>https://samuel-chlam.github.io/news/posts/review_2022/</link>
+      <pubDate>Sun, 08 Jan 2023 01:00:00 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/posts/review_2022/</guid>
+      <description>Dear readers,
+Thank you for reading my review of 2022, which highlights significant achievements made during the year, my reflections and my rough planning for 2023.
+Perhaps the biggest highlight of the year would be my graduation from Imperial College. If you know me well, then you would recognise that this was also my graduation for my primary and high school, as I haven&amp;rsquo;t been formally graduating from those places. It is my pleasure to join the EPSRC CDT of Random Systems at University of Oxford to pursue my further studies in the theory of deep learning.</description>
+    </item>
+    
+    <item>
+      <title>Review 2022 - Appendix: Clarification for CYF interview, 2022 edition</title>
+      <link>https://samuel-chlam.github.io/news/posts/clarification_of_cyf_interview_2022/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/posts/clarification_of_cyf_interview_2022/</guid>
+      <description>This is a guidance valid in the academic year of 2021-22. Some policies may be altered for this academic year.
+TL;DR:
+Clarification for confirmation of faith Interview process The CYF is governed by a committee, supervised by a panel of advisors. The committee is formed by an election under the simple majority system to allow equal representation from different parties in CYF. We believe that CYF committees are elected under the guidance of the same Holy Spirit.</description>
+    </item>
+    
+    <item>
+      <title>Review 2022 - Christianity</title>
+      <link>https://samuel-chlam.github.io/news/posts/christianity_review_2022/</link>
+      <pubDate>Tue, 03 Jan 2023 03:00:00 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/posts/christianity_review_2022/</guid>
+      <description>TL,DR:
+Serving in the Cantonese Youth Fellowship (CYF) Summer in the Chinese Churches in London (CCiL) Imperial College Christian Union (ICCU) Adapting in Oxford: community in St. Ebbes church, morning prayer in University College chapel and Oxford Cantonese Fellowship. Serving in the Cantonese Youth Fellowship Cantonese Youth Fellowship (CYF) is a fellowship in the Chinese Churches in London (CCiL), and has been nurturing many leaders that would later serve CCiL. It has been my priviledge to stay in CYF for four years, and to serve in the CYF committee for my second time.</description>
+    </item>
+    
+    <item>
+      <title>Review 2022 - Appendix: Reflection on CYF</title>
+      <link>https://samuel-chlam.github.io/news/posts/reflection_on_cyf_2022/</link>
+      <pubDate>Tue, 03 Jan 2023 02:30:00 +0800</pubDate>
+      
+      <guid>https://samuel-chlam.github.io/news/posts/reflection_on_cyf_2022/</guid>
+      <description>TL;DR:
+My reflection for my service as vice-chair of the committee of CYF during the first half of 2022: humbleness, relationships with other members, dealing with complex issues. Further recommendations on diversity of serving, working practice. Clarifications on memberships and elections. I would like to firstly thank all communities who have been continuously praying for my continuous development as a christian. I am extremely delighted for my prayer made during my baptism in 2018 has been heard - that I have continuously grow in my faith.</description>
+    </item>
+    
+    <item>
+      <title>Review 2022 - Academic Outreach</title>
+      <link>https://samuel-chlam.github.io/news/posts/academic_outreach_review_2022/</link>
       <pubDate>Tue, 03 Jan 2023 01:00:00 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/academic_outreach_review_2022/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/academic_outreach_review_2022/</guid>
       <description>TL,DR:
 Successful launch of Imperial Wiki Project, require more contributions from members of Imperial College. Teaching assistantship in Oxford on Deep Learning Written an article for Logos Academy Imperial MathsWiki Project My personal highlight on academic outreach would have been (co-)founding Imperial College MathsWiki (MathsWiki) with the collaboration from Imperial Wiki Project (WikiSoc, previously Imperial College ChemWiki), as a spin-off from the society webpage upgrade project for the Imperial College Mathematics Society (MathSoc).</description>
     </item>
     
     <item>
       <title>Review 2022 - Academic</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/academic_review_2022/</link>
+      <link>https://samuel-chlam.github.io/news/posts/academic_review_2022/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/academic_review_2022/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/academic_review_2022/</guid>
       <description>TL,DR:
 Research project at Imperial on equivalence of non-parametric statistical experiments. Coursework at Imperial on functional analysis, optimisation, asymptotic methods, dynamics of games and mathematical biology. Research project at CDT Mathematics of Random Systems on theories of deep learning The final year at Imperial Research Project The major highlight of the year would be the completion of my final year dissertation with Prof. Alastair Young. The dissertation focuses on the equivalence of three non-parametric statistical experiments, including kernel density estimation, regression on Gaussian white noise and regression on Gaussian sequence.</description>
     </item>
     
     <item>
-      <title>A review of 2022</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</link>
-      <pubDate>Sun, 01 Jan 2023 21:00:00 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/review_2022/</guid>
-      <description>Overview This is a review of 2022. I will include more details.
-Graduation Perhaps the biggest highlight of the year would be my graduation from Imperial College.
-Miscellaneous Webpage development service MathSoc and RailSoc Music Thanks the organ scholar for my college to teach me some organ! Pieces learn include hymns and chorales: BWV600 Singing day with John Rutter Further engagement in choirs Further development
-Further chorales of Bach Elf Choralvorspieles Travelling Southend Isle of Wight Spain Reading Two trips cancelled, one due to Covid and one due to Visa applications Railway Crossrail opening Barking Riverside First time in crosscountry Conclusion Thanks for reading!</description>
-    </item>
-    
-    <item>
       <title>Graduation arrangement</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/graduation_arrangement/</link>
+      <link>https://samuel-chlam.github.io/news/posts/graduation_arrangement/</link>
       <pubDate>Wed, 03 Aug 2022 03:43:51 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/graduation_arrangement/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/graduation_arrangement/</guid>
       <description>Thank you for visiting the personal graduation information page!
 Assistant of graduation If you are interested in helping out with the logistics during the graduation, please let me know! You will receive my infinite gratitude if you help out!
 Overview Ceremony The graduation day, also known as commemoration day, is set in October in commemoration of the Royal visits to the college in 1945. The details for the ceremony are as followed.</description>
@@ -64,62 +115,51 @@ Overview Ceremony The graduation day, also known as commemoration day, is set in
     
     <item>
       <title>Minor Prophets</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/minor-prophets/</link>
+      <link>https://samuel-chlam.github.io/news/posts/minor-prophets/</link>
       <pubDate>Thu, 14 Jul 2022 17:29:28 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/minor-prophets/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/minor-prophets/</guid>
       <description>Jonah Day 1: Jonah 1:1-13 Jesus asked Jonah to preach against the great city of Nineveh, but Jonah ran away and boarded a ship at Tarshish.
 The wickedness of Nineveh scared Jonah away. Interesting that Jonah asked the sailors to throw him into the sea. Do you think Jonah is a good servant of God? </description>
     </item>
     
     <item>
       <title>Sunday Bible Study - 06/07</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/act15/</link>
+      <link>https://samuel-chlam.github.io/news/posts/act15/</link>
       <pubDate>Wed, 06 Jul 2022 04:53:50 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/act15/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/act15/</guid>
       <description>Today we will go over Acts 15, verses 1-35. This passage is about the council at Jerusalem debating issue regarding circumcision. A quick plan would be
 introduction (10 minutes): warm-up, key questions the debate of circumcision (5+15 minutes): carefully scrutinise the debates in the Jerusalem council tips of handling conflicts (20 minutes): study again the passage and look at how the churches and leaders deal with conflicts applications (20 minutes) wrapping up (10 minutes) Introduction Warm-up question: Do you think churches would compromise in debates regarding theological matters?</description>
     </item>
     
     <item>
       <title>Basic Christianity</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/basic_christianity/</link>
+      <link>https://samuel-chlam.github.io/news/posts/basic_christianity/</link>
       <pubDate>Sat, 02 Jul 2022 16:53:50 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/basic_christianity/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/basic_christianity/</guid>
       <description>Some summary and notes from the book Basic Christianity by John Stott.
 Chapter 1: The Right Approach God has taken initiatives to reveal Himself through creation, revelation (啟示) and salvation.
 God demonstrating Himself God has spoken Natural revelation: demonstrated to everyone through his creation. Special revelation: demonstrated by a group of the &amp;ldquo;special messengers&amp;rdquo; to the &amp;ldquo;special people&amp;rdquo;. We are fortunate to acknowledge this revelation through evangelism. God has acted because observation is what we need (due to our sinful and skeptical nature.</description>
     </item>
     
     <item>
-      <title>Review 2022 - Christianity (Part 1 on CYF)</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/christianity_review_i/</link>
-      <pubDate>Sat, 25 Jun 2022 20:15:00 +0800</pubDate>
-      
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/christianity_review_i/</guid>
-      <description>TL;DR: My reflection for my service as vice-chair of the committee of CYF during the first half of 2022.
-I would like to firstly thank all communities who have been continuously praying for my continuous development as a christian. I am extremely delighted for my prayer made during my baptism in 2018 has been heard - that I have continuously grow in my faith.
-Serving in the Cantonese Youth Fellowship Cantonese Youth Fellowship (CYF) is a fellowship in the Chinese Churches in London (CCiL), and has been nurturing many leaders that would later serve CCiL.</description>
-    </item>
-    
-    <item>
       <title>Sunday Devotion</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/sunday-devotion-0805/</link>
+      <link>https://samuel-chlam.github.io/news/posts/sunday-devotion-0805/</link>
       <pubDate>Sat, 07 May 2022 14:25:48 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/sunday-devotion-0805/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/sunday-devotion-0805/</guid>
       <description>We will be reading Matthew 19:16-30, the story of a rich man. If you have time, you may wish to continue reading the parable of the workers in the vineyard in Matthew 20:16, but this will only be covered briefly.
 Questions By only just verse 26, can you infer what the verse is about? In verse 17 Jesus said &amp;ldquo;there is only One who is good&amp;rdquo;. Who was the One? Was it the rich man?</description>
     </item>
     
     <item>
       <title>Quarantine_Week</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/quarantine_week/</link>
+      <link>https://samuel-chlam.github.io/news/posts/quarantine_week/</link>
       <pubDate>Fri, 25 Mar 2022 06:00:45 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/quarantine_week/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/quarantine_week/</guid>
       <description>Tasks to do
 Academic Math Biology: Stochastic Processes State-space model Personal Branding - Personal logo
 Redo CSS for personal website Rewrite my academic story Integrate with Markdown MathWiki Finish Optimisation Checklist for modules authorisation Module overview page Undergraduate Routemap (Leave blanks) Migrate users Interdisciplinary Mathematics Preparation for exam Mark converter Cover page preparation CYF Report for BMT camp Exam timetable </description>
@@ -127,29 +167,29 @@ Redo CSS for personal website Rewrite my academic story Integrate with Markdown 
     
     <item>
       <title>Covid Information</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/covid_information/</link>
+      <link>https://samuel-chlam.github.io/news/posts/covid_information/</link>
       <pubDate>Thu, 24 Mar 2022 05:10:23 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/covid_information/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/covid_information/</guid>
       <description>It is with great regret to inform you that I have been tested positive for COVID-19. For logistics purpose, I have created this post to list out key testing results and key contacts for your references. Some information has been redacted for privacy purposes.
 Key Testing Results Negative LFD result on 21/3 (Monday) afternoon. Mild symptom (coughing) developed on 22/3 (Tuesday) evening. A LFD test was done later that night and had negative result.</description>
     </item>
     
     <item>
       <title>MandI Jan26 Sigma Algebra</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan26-sigma-algebra/</link>
+      <link>https://samuel-chlam.github.io/news/posts/mandi-jan26-sigma-algebra/</link>
       <pubDate>Sat, 29 Jan 2022 17:08:56 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan26-sigma-algebra/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/mandi-jan26-sigma-algebra/</guid>
       <description>Summary We have done previous exercise on semi-norm. Facts about $\sigma$-algebra Uncountable intersection of $\sigma$-algebra is also a $\sigma$-algebra. That is why it makes sense to talk about &amp;ldquo;the smallest $\sigma$-algebra&amp;rdquo; containing certain subset of power set. To prove $\sigma(C) \subseteq \mathcal{F}$ you show that $C$ is contained in $\mathcal{F}$. Exercise Make sure you have read the proof of Carathedory extension theorem and the notions of null set. You can preview the proofs by looking at chapter 3 of my notes.</description>
     </item>
     
     <item>
       <title>MathWiki Catchup 20/1</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mathwiki_jan-20-meeting-presentation/</link>
+      <link>https://samuel-chlam.github.io/news/posts/mathwiki_jan-20-meeting-presentation/</link>
       <pubDate>Thu, 20 Jan 2022 09:23:23 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mathwiki_jan-20-meeting-presentation/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/mathwiki_jan-20-meeting-presentation/</guid>
       <description>The following is the agenda for the MathWiki catchup on 20/1/2022 (Thursday) 5pm on Microsoft Teams.
 Participants:
 Amir (MathSoc President) Samuel (MathSoc Webmaster) Thomas (ImperialWiki Cofounder) Luc (ImperialWiki Student Partner) David (ImperialWiki Student Partner) Agenda
@@ -158,10 +198,10 @@ Updates on MathWiki website Proposed development Preparation of Student-Staff Co
     
     <item>
       <title>M&amp;I Week 3 - Introduction</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan-20-introduction/</link>
+      <link>https://samuel-chlam.github.io/news/posts/mandi-jan-20-introduction/</link>
       <pubDate>Thu, 20 Jan 2022 09:07:47 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mandi-jan-20-introduction/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/mandi-jan-20-introduction/</guid>
       <description>Follow up of lectures Formalisation of Riemann (Darboux) Integral: the upper and lower Darboux sum is defined as $$U(f) = \inf_\mathcal{P} U(f,\mathcal{P}), \quad L(f) = \sup_\mathcal{P} L(f,\mathcal{P})$$ where
 $$U(f,\mathcal{P} = (x_i)_{i=0}^n) = \sum _{i=0}^{n-1} \left( \sup _{x \in [x_i, x _{i+1})} f(x) \right) (x _{i+1} - x_i)$$
 $$L(f,\mathcal{P} = (x_i)_{i=0}^n) = \sum _{i=0}^{n-1} \left( \inf _{x \in [x_i, x _{i+1})} f(x) \right) (x _{i+1} - x_i)$$
@@ -170,10 +210,10 @@ Incompleteness of $L^p$ space induced by Riemann Integral, e.</description>
     
     <item>
       <title>Measure and Integration Study Group</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/measure-and-integration/</link>
+      <link>https://samuel-chlam.github.io/news/posts/measure-and-integration/</link>
       <pubDate>Wed, 19 Jan 2022 10:10:07 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/measure-and-integration/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/measure-and-integration/</guid>
       <description>Objective This is a trial study group as a follow up of the lectures of the course MATH50006 Lebesgue Measure and Integration (Imperial login required.)
 Logistics Venue: Math Learning Centre (MLC, Huxley 414), Huxley Building, Imperial Time: 9.30am - 11.00am every Wednesday. Content: discussion of materials from the Tuesday lecture. Materials: See the relevant MathWiki page. (Imperial login required.)
 Timetable Week 3 (19/1) - Introduction, Function Spaces Week 4 (26/1) - Axioms of measure Week 5 (2/2) - Construction of measure I Week 6 (9/2) - Construction of measure II and Convergence almost everywhere.</description>
@@ -181,47 +221,47 @@ Timetable Week 3 (19/1) - Introduction, Function Spaces Week 4 (26/1) - Axioms o
     
     <item>
       <title>March Weekly plan</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/mar21-weekly-plan/</link>
+      <link>https://samuel-chlam.github.io/news/posts/mar21-weekly-plan/</link>
       <pubDate>Wed, 19 Jan 2022 10:09:12 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/mar21-weekly-plan/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/mar21-weekly-plan/</guid>
       <description>Upcoming Week 10 (6-12/3) Academic Optimisation FYP: Week 11 (13-19/3) Academic Advanced Analysis: FYP: Week 12 (20-26/3): Catch-up Week Week 13 (27/3-2/4): Personal branding week Week 14 (3/4-9/4) </description>
     </item>
     
     <item>
       <title>February Weekly plan</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/feb21-weekly-plan/</link>
+      <link>https://samuel-chlam.github.io/news/posts/feb21-weekly-plan/</link>
       <pubDate>Wed, 19 Jan 2022 09:01:12 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/feb21-weekly-plan/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/feb21-weekly-plan/</guid>
       <description>Upcoming Week 6 (6-12/2) 6/2 (Sunday) - Service and Interview Sunday service CDT Random Systems (Imperial) interview Preparation for StatML interview 7/2 (Monday) - Interview StatML interview Optimisation lecture MathWiki Preparation 8/2 (Tuesday) Summer: enquiries for extending 9/2 (Wednesday) Measure and Integration - Measurable sets and completeness, measure-determining set. FYP: Catchup Optimisation week 4/5 - day 1 10/2 (Thursday) Optimisation week 4/5 - day 2 CU: Hub and Post-hub run CYF meeting 11/2 (Friday) Optimisation week 4/5 - day 3 FYP: Density Estimation / Literature / Planning Sunday devotion planning CYF: BMT Planning 12/2 (Saturday) Advanced Analysis: week 4/5 CYF Week 7 (13-19/2): Catch-up, CU Events Week 13/2 (Sunday) Mother&amp;rsquo;s birthday Bible study Badminton Planning exercises 14/2 (Monday) Optimisation: lecture and coursework 15/2 (Tuesday) 16/2 (Wednesday) Sunrise ride RailSoc tube challenge.</description>
     </item>
     
     <item>
       <title>CYF Jan 16 Chit Chat</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/cyf-jan-16-chit-chat/</link>
+      <link>https://samuel-chlam.github.io/news/posts/cyf-jan-16-chit-chat/</link>
       <pubDate>Sun, 16 Jan 2022 00:39:22 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/cyf-jan-16-chit-chat/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/cyf-jan-16-chit-chat/</guid>
       <description>Quick notes from a discussion with CYF friends during the fellowship on 16/1/2021. I have just finished my Dynamics of Games homework and have been exhausted, so I decided to listen and I enjoy that so much. I am also glad that Yanni share my website to others.
 Jocelyn: Don&amp;rsquo;t worry about deadair. (Although &amp;ldquo;introverts are happy if extroverts take over&amp;rdquo;.) Joseph: Go beyond being silent and try to respond to others sharing.</description>
     </item>
     
     <item>
       <title>January Weekly Plan</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/jan21-weekly-plan/</link>
+      <link>https://samuel-chlam.github.io/news/posts/jan21-weekly-plan/</link>
       <pubDate>Mon, 10 Jan 2022 01:01:12 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/jan21-weekly-plan/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/jan21-weekly-plan/</guid>
       <description>Upcoming Week 5 (30/1-5/2): 30/1 (Sunday) - Church day Morning: Sunday devotion and worship Afternoon: Worship practice Night: Interview preparation and mock interview 31/1 (Monday) Sport: Running Optimisation: Follow up on development of relevant MathWiki page. Preparation of interview 1/2 (Tuesday) - Interview Day 2/2 (Wednesday) - MathWiki and Project Day M&amp;amp;I Study Group MathWiki: Student Partners launch meeting FYP: Catchup with advisors 3/2 (Thursday) Advanced Analysis: Lecture Interview: Preparation for StatML interview Christian Union: Hub CYF Meeting CU Mark Drama Publicity MathSoc Website Day 1 4/2 (Friday) Prayer breakfast MathSoc Website Day 1 Preparation for StatML interview 5/2 (Saturday) - CYF and RailSoc Catchup Morning: Bible Study Afternoon: CYF Night: Preparation for StatML interview Past Week Week 2 (9-15/1): Dynamics of Games catch up Academic: Dynamics of Games Coursework Optimisation: Slater&amp;rsquo;s condition, KKT condition.</description>
     </item>
     
     <item>
       <title>Sunday Devotion</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/sunday-devotion/</link>
+      <link>https://samuel-chlam.github.io/news/posts/sunday-devotion/</link>
       <pubDate>Mon, 10 Jan 2022 00:37:07 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/sunday-devotion/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/sunday-devotion/</guid>
       <description>Objective This is a trial devotion session to encourage CYF members developing habits of morning devotion. We will be reading 1 John every Sunday before the main service. It would be expanded if there are good outcomes.
 Logistics Venue: McDonald&amp;rsquo;s in Hammersmith Broadway Time: 8.30am - 9.15am every Sunday. Content: discussion of prescribed materials and catchup. We will be reading 1 John.
 Timetable 16/1 (Samuel) - Chapter 1 What is the word of life (v2)?</description>
@@ -229,19 +269,19 @@ Timetable 16/1 (Samuel) - Chapter 1 What is the word of life (v2)?</description>
     
     <item>
       <title>Jan 8 Meeting Minutes</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/jan-8-meeting-minutes/</link>
+      <link>https://samuel-chlam.github.io/news/posts/jan-8-meeting-minutes/</link>
       <pubDate>Mon, 10 Jan 2022 00:19:01 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/jan-8-meeting-minutes/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/jan-8-meeting-minutes/</guid>
       <description>Decision after discussion Bible Study Resume Sunday devotional breakfast: 1 John Resume daily bible reading: Minor prophets Thessalonians Jeremiah and Lamentations Titus Philemon Ezekiel Worship Best training of musicians are to let them have more experience. Emphasis on communication among leaders and musicians. Other Activities Table football Music Improvement for next time Agenda too long! I have left my home in a rush so everything is in a mess! Should give Harman a list of stuff he should bring a day before the meeting.</description>
     </item>
     
     <item>
       <title>CYF Early Jan Meetings</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/cyf-early-jan-meetings/</link>
+      <link>https://samuel-chlam.github.io/news/posts/cyf-early-jan-meetings/</link>
       <pubDate>Sat, 08 Jan 2022 00:38:29 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/cyf-early-jan-meetings/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/cyf-early-jan-meetings/</guid>
       <description>The following is a summary for two meetings of CYF, happening on 30/12/2021 (Thursday) and 6/1/2022 (Wednesday). Both meetings are happening in Zoom.
 Committee: Justin (President), Samuel (Vice-President), Vera (Vice-President de-facto, worship and music), Cherry (pastoral), Thomas (secretary), Chung (evangelism and outreach)
 Covid Arrangement Many CYF participants caught Covid after the gathering on 26/12/2021 (Sunday), and we have prayed for their recoveries. CYF is turning online. CYF will resume normal no later than February.</description>
@@ -249,20 +289,20 @@ Covid Arrangement Many CYF participants caught Covid after the gathering on 26/1
     
     <item>
       <title>Masterplan Kickoff Meeting</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/jan-8-meeting/</link>
+      <link>https://samuel-chlam.github.io/news/posts/jan-8-meeting/</link>
       <pubDate>Fri, 07 Jan 2022 22:40:48 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/jan-8-meeting/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/jan-8-meeting/</guid>
       <description>The following is the agenda for the kickoff on 8/1/2022 (Saturday). Participants are reminded to take Covid test (LFD/PCR) 48 hours before attending. We are meeting 6pm at the foyer of Gabor Hall.
 Three courses Starter: Tomato soup Main: Spaghetti Carbonara Assorted vegetable Dessert: Ice Cream Snacks are provided Discussion Lifestyle regular exercise - how to sustain? designing easier meals Academic Development overview of coursework materials - what do you want to achieve?</description>
     </item>
     
     <item>
       <title>Vision</title>
-      <link>https://samuel-chlam.github.io/masterplan-2022/posts/vision/</link>
+      <link>https://samuel-chlam.github.io/news/posts/vision/</link>
       <pubDate>Fri, 07 Jan 2022 11:05:56 +0800</pubDate>
       
-      <guid>https://samuel-chlam.github.io/masterplan-2022/posts/vision/</guid>
+      <guid>https://samuel-chlam.github.io/news/posts/vision/</guid>
       <description>The following contents are taken from a discussion with my mother on 6/1/2022 (Thursday).
 Basic Principles Reflect on the expected achievements of plans everyday as a way to keep us going Start brainstorming with big direction, then set up easy (small) targets following the direction. It is easy to get lost: think about the example of Peter walking on the sea, and how Jesus responded when Peter hesitated. (Matthew 14:22-33, Bible) Successful planning involves lots of research and discussions Mind your language Be flexible, &amp;ldquo;be water my friend&amp;rdquo; (Bruce Lee) Basic elements of a plan knowledge skill habit (usually 21 days or 49 days) attitude How to seek advice?</description>
     </item>
